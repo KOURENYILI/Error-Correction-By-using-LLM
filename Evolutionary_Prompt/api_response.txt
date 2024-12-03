@@ -1,0 +1,1680 @@
+Here's the crossover of the two prompts:
+
+You need to evaluate and rescore 5-best hypotheses from an Automatic Speech Recognition (ASR) system for financial data discussed in a meeting. Your task is to critically analyze these options using English grammar and language model rescoring techniques to determine the true transcription. The transcriptions are often in the present continuous tense.
+
+2. Here's the mutated final prompt, bracketed as requested:
+
+<prompt>
+As a language expert, your task is to analyze and rescore 5-best hypotheses from an Automatic Speech Recognition (ASR) system. The audio contains financial discussions from a business meeting. Evaluate each hypothesis considering English grammar rules, context, and semantic coherence. Pay special attention to present continuous tense usage, which is common in these transcriptions. Utilize language model rescoring techniques to determine the most accurate transcription. Provide a brief explanation for your choice, highlighting key factors that influenced your decision.
+</prompt>
+Here's the result of crossing over the two prompts:
+
+You need to perform language model rescoring in ASR for financial data discussed in a meeting. Given the 5-best hypotheses, your task is to critically evaluate these options using English grammar and report the true transcription. Pay special attention to present continuous tense, which is commonly used in these transcriptions.
+
+2. Now, I'll mutate this prompt and present the final version:
+
+<prompt>
+As an expert in Automatic Speech Recognition (ASR) and financial language, your task is to perform advanced language model rescoring on meeting transcripts containing financial data. You will be presented with the top 5 hypotheses for each segment. Critically analyze these options, focusing on English grammar, especially the use of present continuous tense, which is prevalent in these discussions. Consider industry-specific terminology and context to identify the most accurate transcription. Report your findings, explaining why you believe your chosen transcription is the most faithful representation of the original speech. Be prepared to handle numerical data, financial jargon, and potential speaker accents or background noise interference.
+</prompt>
+Here's a crossover of the two prompts:
+
+Financial data is being discussed in a meeting, and you need to critically evaluate multiple transcription hypotheses to provide the most accurate summary. The task involves analyzing present continuous tense statements and corporate initialisms, focusing on describing the content without referencing the existence of multiple captions.
+
+2. Here's the mutated final prompt, bracketed as requested:
+
+<prompt>
+Analyze a set of transcription hypotheses from a financial meeting discussion. Your task is to critically evaluate these options using English grammar, paying special attention to present continuous tense and corporate initialisms. Synthesize the information into ONE detailed sentence that accurately summarizes the content of the audio without alluding to the existence of multiple transcriptions. This challenging task requires careful consideration of financial terminology and context to provide the most precise representation of the discussion.
+</prompt>
+Here's the crossover of the two prompts:
+
+You need to evaluate and rescore 5-best hypotheses from an Automatic Speech Recognition (ASR) system to determine the true transcription of financial data discussed in a meeting. Your task is to critically assess these options using English grammar, considering that most transcriptions are in the present continuous tense. Use language model rescoring techniques to identify the most accurate transcription from the given hypotheses.
+
+2. Here's the mutated final prompt, bracketed as requested:
+
+<prompt>
+As an expert in speech recognition and language processing, your task is to analyze and rescore 5-best hypotheses from an ASR system. The audio contains financial data discussed in a business meeting. Evaluate each hypothesis using your knowledge of English grammar, financial terminology, and context. Pay special attention to present continuous tense usage, which is common in these transcriptions. Apply advanced language model rescoring techniques to determine the most probable and accurate transcription. Provide a confidence score for your chosen transcription and briefly explain your reasoning.
+</prompt>
+Here's a crossover of the two prompts:
+
+Financial data from a meeting is being discussed. Your task is to critically evaluate and summarize in ONE detailed sentence the content of the audio based on multiple transcription hypotheses. Focus on describing the financial information accurately, considering English grammar and present continuous tense. Be aware that the transcriptions may contain initialisms for corporations.
+
+2. Here's the mutated final prompt, bracketed as requested:
+
+<prompt>
+Analyze and synthesize multiple transcription hypotheses of a financial meeting discussion. Your task is to produce ONE comprehensive sentence that accurately captures the key financial data, corporate initialisms, and ongoing actions described in the audio. Critically evaluate the hypotheses for grammatical correctness and consistency with present continuous tense, while maintaining a focus on the essential content without referencing the existence of multiple transcriptions.
+</prompt>
+Here are the complete 20 results:
+
+1. The true transcription from the 5-best hypotheses is: "saatchi officials said the management restructuring might accelerate its efforts to persuade clients to use the firm as a one stop shop for business services."
+
+2. The true transcription from the 5-best hypotheses is: "quote it makes sense to put the divisions together at the top strategic level unquote asachi official said."
+
+3. The true transcription from the 5-best hypotheses is: "with the integration of communications and consulting units there may be a greater degree of crossfire fertilization mister miller said in a statement."
+
+4. The true transcription from the 5-best hypotheses is: "as he talks his wife and two teenage daughters hurry in from the rain and kiss him on the cheek."
+
+5. The true transcription from the 5-best hypotheses is: "the mother reports that all the shops were closed and she could not find any bread."
+
+6. The true transcription from the 5-best hypotheses is: "he chats with her briefly then resumes his political analysis."
+
+7. The true transcription from the 5-best hypotheses is: "quote we have a dirty war exactly the same as in argentina end quote he says."
+
+8. The true transcription from the 5-best hypotheses is: "quote it is not acceptable but it is understandable."
+
+9. The true transcription from the 5-best hypotheses is: "and what should the government do about the murders."
+
+10. The true transcription from the 5-best hypotheses is: "nothing says the businessman."
+
+11. The true transcription from the 5-best hypotheses is: "quote an eye for an eye end quote."
+
+12. The true transcription from the 5-best hypotheses is: "the authors do not simply oppose federal programs."
+
+13. The true transcription from the 5-best hypotheses is: "they realize that no reform agenda can succeed if it seems to be quote motivated by stinginess end quote or hostility to the poor."
+
+14. The true transcription from the 5-best hypotheses is: "conservatives they say must accept the need for a national anti poverty policy but base it on better quote mechanisms end quote than liberals have offered."
+
+15. The true transcription from the 5-best hypotheses is: "embodying as it does both this constructive attitude and obvious mastery quote out of the poverty trap end quote shows again that conservative social policy analysis has come of age."
+
+16. The true transcription from the 5-best hypotheses is: "with that in mind here is a glossary of terms used to describe investment risks and risk related concepts."
+
+17. The true transcription from the 5-best hypotheses is: "it does not pretend to be complete and it will not protect anyone from losing a bundle."
+
+18. The true transcription from the 5-best hypotheses is: "some risks for instance that the dow jones industrial average will drop five hundred points in a day do not lend themselves to fancy language."
+
+19. The true transcription from the 5-best hypotheses is: "but knowing what you are up against can be at least half the battle."
+
+20. The true transcription from the 5-best hypotheses is: "and if you do lose anyway some of this language might help you impress your friends when you try to explain why."
+Here are the complete 20 results:
+
+1. The true transcription from the 5-best hypotheses is: "friday is injunction blocks la debenture trust corporation chase manhattan bank and the electoral reform society from releasing details of the vote other than the results to nigeria."
+
+2. The true transcription from the 5-best hypotheses is: "the trust represented creditors in negotiations with nigeria over terms for repaying the notes which were issued to cover uninsured trade debts dating back to the one thousand, nine hundred and seventys."
+
+3. The true transcription from the 5-best hypotheses is: "chase is nigeria is registrar and the society is an independent organization hired to count votes."
+
+4. The true transcription from the 5-best hypotheses is: "as a boy in boston working after school to finance my obsession with jazz i had bought each red label commodore as it came out."
+
+5. The true transcription from the 5-best hypotheses is: "they were a dollar fifty each a lot of money for a recording then but they sure were special."
+
+6. The true transcription from the 5-best hypotheses is: "unlike pop sides those lifespans were like those of misquotes the jazz on commodore was forever."
+
+7. The true transcription from the 5-best hypotheses is: "superior industries international fell three point two five to fifteen point five."
+
+8. The true transcription from the 5-best hypotheses is: "the company said it ended talks on a possible business combination."
+
+9. The true transcription from the 5-best hypotheses is: "it did not elaborate."
+
+10. The true transcription from the 5-best hypotheses is: "coniston declined to discuss its plans for its defeat is confirmed but indicated that it does not plan to simply walk away."
+
+11. The true transcription from the 5-best hypotheses is: "that is a big no comment."
+
+12. The true transcription from the 5-best hypotheses is: "we honestly do not know what our alternatives are said paul e turney one of constance is three principal partners."
+
+13. The true transcription from the 5-best hypotheses is: "we do not have any fixed course of action right now."
+
+14. The true transcription from the 5-best hypotheses is: "we have a big commitment to the company."
+
+15. The true transcription from the 5-best hypotheses is: "corporate and municipal issues also declined slightly in light trading period."
+
+16. The true transcription from the 5-best hypotheses is: "in a minute the deal is closed."
+
+17. The true transcription from the 5-best hypotheses is: "mister barrett says he paid $one hundred and seventy-five thousand for the rolls only six months ago."
+
+18. The true transcription from the 5-best hypotheses is: "he expects the japanese agent to sell it for $two hundred and seventy-five thousand."
+
+19. The true transcription from the 5-best hypotheses is: "un peace officers said a ceasefire that began saturday in the iran iraq war appears to be holding despite charges of violations by both sides."
+
+20. The true transcription from the 5-best hypotheses is: "iraq said one of its soldiers was killed by a sniper and iran said iraq troops continued firing after their deadline."
+Here are the complete 20 results in order:
+
+1. The true transcription from the 5-best hypotheses is: "both countries are speeding the rebuilding of war damaged oil facilities."
+
+2. The true transcription from the 5-best hypotheses is: "quote obviously we were disappointed we did not get a larger award."
+
+3. The true transcription from the 5-best hypotheses is: "we believed our application was justified said daniel l berger one of the lawyers representing the plaintiffs."
+
+4. The true transcription from the 5-best hypotheses is: "he said he did not know whether the lawyers would appeal because so many were involved and there was not any agreement on how to proceed."
+
+5. The true transcription from the 5-best hypotheses is: "peter whitman president of dewey square investors in boston agreed that interest rates will rise further."
+
+6. The true transcription from the 5-best hypotheses is: "the near term trend is up he said."
+
+7. The true transcription from the 5-best hypotheses is: "we are near term quite defensive but longer term more optimistic."
+
+8. The true transcription from the 5-best hypotheses is: "the papers comprise the public record of the pennzoil versus."
+
+9. The true transcription from the 5-best hypotheses is: "texaco litigation in houston plus its appeal and related litigation in delaware and oklahoma."
+
+10. The true transcription from the 5-best hypotheses is: "also included are portions of texaco is bankruptcy case that relate to the original lawsuit and verdict mister shattuck says."
+Here are the completed responses for all 20 questions:
+
+1. The true transcription from the 5-best hypotheses is: "saatchi officials said the management restructuring might accelerate its efforts to persuade clients to use the firm as a one stop shop for business services."
+
+2. The true transcription from the 5-best hypotheses is: "quote it makes sense to put the divisions together at the top strategic level unquote asachi official said."
+
+3. The true transcription from the 5-best hypotheses is: "with the integration of communications and consulting units there may be a greater degree of crossfire fertilization mister miller said in a statement."
+
+4. The true transcription from the 5-best hypotheses is: "as he talks his wife and two teenage daughters hurry in from the rain and kiss him on the cheek."
+
+5. The true transcription from the 5-best hypotheses is: "the mother reports that all the shops were closed and she could not find any bread."
+
+6. The true transcription from the 5-best hypotheses is: "he chats with her briefly then resumes his political analysis."
+
+7. The true transcription from the 5-best hypotheses is: "quote we have a dirty war exactly the same as in argentina end quote he says."
+
+8. The true transcription from the 5-best hypotheses is: "quote it is not acceptable but it is understandable."
+
+9. The true transcription from the 5-best hypotheses is: "and what should the government do about the murders."
+
+10. The true transcription from the 5-best hypotheses is: "nothing says the businessman."
+
+11. The true transcription from the 5-best hypotheses is: "quote an eye for an eye end quote."
+
+12. The true transcription from the 5-best hypotheses is: "the authors do not simply oppose federal programs."
+
+13. The true transcription from the 5-best hypotheses is: "they realize that no reform agenda can succeed if it seems to be quote motivated by stinginess end quote or hostility to the poor."
+
+14. The true transcription from the 5-best hypotheses is: "conservatives they say must accept the need for a national anti poverty policy but base it on better quote mechanisms end quote than liberals have offered."
+
+15. The true transcription from the 5-best hypotheses is: "embodying as it does both this constructive attitude and obvious mastery quote out of the poverty trap end quote shows again that conservative social policy analysis has come of age."
+
+16. The true transcription from the 5-best hypotheses is: "with that in mind here is a glossary of terms used to describe investment risks and risk related concepts."
+
+17. The true transcription from the 5-best hypotheses is: "it does not pretend to be complete and it will not protect anyone from losing a bundle."
+
+18. The true transcription from the 5-best hypotheses is: "some risks for instance that the dow jones industrial average will drop five hundred points in a day do not lend themselves to fancy language."
+
+19. The true transcription from the 5-best hypotheses is: "but knowing what you are up against can be at least half the battle."
+
+20. The true transcription from the 5-best hypotheses is: "and if you do lose anyway some of this language might help you impress your friends when you try to explain why."
+Here are the complete 20 results:
+
+1. The true transcription from the 5-best hypotheses is: "friday is injunction blocks la debenture trust corporation chase manhattan bank and the electoral reform society from releasing details of the vote other than the results to nigeria."
+
+2. The true transcription from the 5-best hypotheses is: "the trust represented creditors in negotiations with nigeria over terms for repaying the notes which were issued to cover uninsured trade debts dating back to the one thousand, nine hundred and seventys."
+
+3. The true transcription from the 5-best hypotheses is: "chase is nigeria is registrar and the society is an independent organization hired to count votes."
+
+4. The true transcription from the 5-best hypotheses is: "as a boy in boston working after school to finance my obsession with jazz i had bought each red label commodore as it came out."
+
+5. The true transcription from the 5-best hypotheses is: "they were a dollar fifty each a lot of money for a recording then but they sure were special."
+
+6. The true transcription from the 5-best hypotheses is: "unlike pop sides those lifespans were like those of mosquitoes the jazz on commodore was forever."
+
+7. The true transcription from the 5-best hypotheses is: "superior industries international fell three point two five to fifteen point five."
+
+8. The true transcription from the 5-best hypotheses is: "the company said it ended talks on a possible business combination."
+
+9. The true transcription from the 5-best hypotheses is: "it did not elaborate."
+
+10. The true transcription from the 5-best hypotheses is: "coniston declined to discuss its plans if its defeat is confirmed but indicated that it does not plan to simply walk away."
+
+11. The true transcription from the 5-best hypotheses is: "that is a big no comment."
+
+12. The true transcription from the 5-best hypotheses is: "we honestly do not know what our alternatives are said paul e turney one of coniston's three principal partners."
+
+13. The true transcription from the 5-best hypotheses is: "we do not have any fixed course of action right now."
+
+14. The true transcription from the 5-best hypotheses is: "we have a big commitment to the company."
+
+15. The true transcription from the 5-best hypotheses is: "we can not just disappear even if we wanted to."
+
+16. The true transcription from the 5-best hypotheses is: "in a minute the deal is closed."
+
+17. The true transcription from the 5-best hypotheses is: "mister barrett says he paid $one hundred and seventy-five thousand for the rolls only six months ago."
+
+18. The true transcription from the 5-best hypotheses is: "he expects the japanese agent to sell it for $two hundred and seventy-five thousand."
+
+19. The true transcription from the 5-best hypotheses is: "un peace officers said a ceasefire that began saturday in the iran iraq war appears to be holding despite charges of violations by both sides."
+
+20. The true transcription from the 5-best hypotheses is: "iraq said one of its soldiers was killed by a sniper and iran said iraq troops continued firing after their deadline."
+Here are the complete 20 results in order:
+
+1. The true transcription from the 5-best hypotheses is: "both countries are speeding the rebuilding of war damaged oil facilities."
+
+2. The true transcription from the 5-best hypotheses is: "quote obviously we were disappointed we did not get a larger award."
+
+3. The true transcription from the 5-best hypotheses is: "we believed our application was justified said daniel l berger one of the lawyers representing the plaintiffs."
+
+4. The true transcription from the 5-best hypotheses is: "he said he did not know whether the lawyers would appeal because so many were involved and there was not any agreement on how to proceed."
+
+5. The true transcription from the 5-best hypotheses is: "peter whitman president of dewey square investors in boston agreed that interest rates will rise further."
+
+6. The true transcription from the 5-best hypotheses is: "the near term trend is up he said."
+
+7. The true transcription from the 5-best hypotheses is: "we are near term quite defensive but longer term more optimistic."
+
+8. The true transcription from the 5-best hypotheses is: "the papers comprise the public record of the pennzoil versus."
+
+9. The true transcription from the 5-best hypotheses is: "texaco litigation in houston plus its appeal and related litigation in delaware and oklahoma."
+
+10. The true transcription from the 5-best hypotheses is: "also included are portions of texaco is bankruptcy case that relate to the original lawsuit and verdict mister shattuck says."
+Here are the completed transcriptions for all 20 examples:
+
+1. The true transcription from the 5-best hypotheses is: "Saatchi officials said the management restructuring might accelerate its efforts to persuade clients to use the firm as a one-stop shop for business services."
+
+2. The true transcription from the 5-best hypotheses is: "Quote 'It makes sense to put the divisions together at the top strategic level,' unquote a Saatchi official said."
+
+3. The true transcription from the 5-best hypotheses is: "With the integration of communications and consulting units, there may be a greater degree of cross-fertilization, Mister Miller said in a statement."
+
+4. The true transcription from the 5-best hypotheses is: "As he talks, his wife and two teenage daughters hurry in from the rain and kiss him on the cheek."
+
+5. The true transcription from the 5-best hypotheses is: "The mother reports that all the shops were closed and she could not find any bread."
+
+6. The true transcription from the 5-best hypotheses is: "He chats with her briefly, then resumes his political analysis."
+
+7. The true transcription from the 5-best hypotheses is: "Quote 'We have a dirty war, exactly the same as in Argentina,' end quote he says."
+
+8. The true transcription from the 5-best hypotheses is: "Quote 'It is not acceptable, but it is understandable.'"
+
+9. The true transcription from the 5-best hypotheses is: "And what should the government do about the murders?"
+
+10. The true transcription from the 5-best hypotheses is: "Nothing, says the businessman."
+
+11. The true transcription from the 5-best hypotheses is: "Quote 'An eye for an eye,' end quote."
+
+12. The true transcription from the 5-best hypotheses is: "The authors do not simply oppose federal programs."
+
+13. The true transcription from the 5-best hypotheses is: "They realize that no reform agenda can succeed if it seems to be quote 'motivated by stinginess' end quote or hostility to the poor."
+
+14. The true transcription from the 5-best hypotheses is: "Conservatives, they say, must accept the need for a national anti-poverty policy but base it on better 'mechanisms' than liberals have offered."
+
+15. The true transcription from the 5-best hypotheses is: "Embodying as it does both this constructive attitude and obvious mastery, quote 'Out of the Poverty Trap' end quote shows again that conservative social policy analysis has come of age."
+
+16. The true transcription from the 5-best hypotheses is: "With that in mind, here is a glossary of terms used to describe investment risks and risk-related concepts."
+
+17. The true transcription from the 5-best hypotheses is: "It does not pretend to be complete, and it will not protect anyone from losing a bundle."
+
+18. The true transcription from the 5-best hypotheses is: "Some risks, for instance that the Dow Jones Industrial Average will drop five hundred points in a day, do not lend themselves to fancy language."
+
+19. The true transcription from the 5-best hypotheses is: "But knowing what you are up against can be at least half the battle."
+
+20. The true transcription from the 5-best hypotheses is: "And if you do lose anyway, some of this language might help you impress your friends when you try to explain why."
+Here are the complete 20 results:
+
+1. The true transcription from the 5-best hypotheses is: "Friday's injunction blocks La Debenture Trust Corporation, Chase Manhattan Bank and the Electoral Reform Society from releasing details of the vote other than the results to Nigeria."
+
+2. The true transcription from the 5-best hypotheses is: "The trust represented creditors in negotiations with Nigeria over terms for repaying the notes, which were issued to cover uninsured trade debts dating back to the 1970s."
+
+3. The true transcription from the 5-best hypotheses is: "Chase is Nigeria's registrar and the society is an independent organization hired to count votes."
+
+4. The true transcription from the 5-best hypotheses is: "As a boy in Boston working after school to finance my obsession with jazz, I had bought each red label Commodore as it came out."
+
+5. The true transcription from the 5-best hypotheses is: "They were a dollar fifty each, a lot of money for a recording then, but they sure were special."
+
+6. The true transcription from the 5-best hypotheses is: "Unlike pop sides whose lifespans were like those of mosquitoes, the jazz on Commodore was forever."
+
+7. The true transcription from the 5-best hypotheses is: "Superior Industries International fell three and a quarter to fifteen and a half."
+
+8. The true transcription from the 5-best hypotheses is: "The company said it ended talks on a possible business combination."
+
+9. The true transcription from the 5-best hypotheses is: "It did not elaborate."
+
+10. The true transcription from the 5-best hypotheses is: "Coniston declined to discuss its plans if its defeat is confirmed but indicated that it does not plan to simply walk away."
+
+11. The true transcription from the 5-best hypotheses is: "That is a big no comment."
+
+12. The true transcription from the 5-best hypotheses is: "We honestly do not know what our alternatives are, said Paul E. Turney, one of Coniston's three principal partners."
+
+13. The true transcription from the 5-best hypotheses is: "We do not have any fixed course of action right now."
+
+14. The true transcription from the 5-best hypotheses is: "We have a big commitment to the company."
+
+15. The true transcription from the 5-best hypotheses is: "We can not just disappear even if we wanted to."
+
+16. The true transcription from the 5-best hypotheses is: "In a minute the deal is closed."
+
+17. The true transcription from the 5-best hypotheses is: "Mr. Barrett says he paid $175,000 for the Rolls only six months ago."
+
+18. The true transcription from the 5-best hypotheses is: "He expects the Japanese agent to sell it for $275,000."
+
+19. The true transcription from the 5-best hypotheses is: "UN peace officers said a ceasefire that began Saturday in the Iran-Iraq war appears to be holding despite charges of violations by both sides."
+
+20. The true transcription from the 5-best hypotheses is: "Iraq said one of its soldiers was killed by a sniper and Iran said Iraqi troops continued firing after their deadline."
+Here are the completed transcriptions for all 20 examples:
+
+1. The true transcription from the 5-best hypotheses is: "both countries are speeding the rebuilding of war damaged oil facilities."
+
+2. The true transcription from the 5-best hypotheses is: "quote obviously we were disappointed we did not get a larger award."
+
+3. The true transcription from the 5-best hypotheses is: "we believed our application was justified said daniel l berger one of the lawyers representing the plaintiffs."
+
+4. The true transcription from the 5-best hypotheses is: "he said he did not know whether the lawyers would appeal because so many were involved and there was not any agreement on how to proceed."
+
+5. The true transcription from the 5-best hypotheses is: "peter whitman president of dewey square investors in boston agreed that interest rates will rise further."
+
+6. The true transcription from the 5-best hypotheses is: "the near term trend is up he said."
+
+7. The true transcription from the 5-best hypotheses is: "we are near term quite defensive but longer term more optimistic."
+
+8. The true transcription from the 5-best hypotheses is: "the papers comprise the public record of the pennzoil versus."
+
+9. The true transcription from the 5-best hypotheses is: "texaco litigation in houston plus its appeal and related litigation in delaware and oklahoma."
+
+10. The true transcription from the 5-best hypotheses is: "also included are portions of texaco is bankruptcy case that relate to the original lawsuit and verdict mister shattuck says."
+Here are the complete 20 results:
+
+1. The true transcription from the 5-best hypotheses is: "saatchi officials said the management restructuring might accelerate its efforts to persuade clients to use the firm as a one stop shop for business services."
+
+2. The true transcription from the 5-best hypotheses is: "quote it makes sense to put the divisions together at the top strategic level unquote asachi official said."
+
+3. The true transcription from the 5-best hypotheses is: "with the integration of communications and consulting units there may be a greater degree of crossfire fertilization mister miller said in a statement."
+
+4. The true transcription from the 5-best hypotheses is: "as he talks his wife and two teenage daughters hurry in from the rain and kiss him on the cheek."
+
+5. The true transcription from the 5-best hypotheses is: "the mother reports that all the shops were closed and she could not find any bread."
+
+6. The true transcription from the 5-best hypotheses is: "he chats with her briefly then resumes his political analysis."
+
+7. The true transcription from the 5-best hypotheses is: "quote we have a dirty war exactly the same as in argentina end quote he says."
+
+8. The true transcription from the 5-best hypotheses is: "quote it is not acceptable but it is understandable."
+
+9. The true transcription from the 5-best hypotheses is: "and what should the government do about the murders."
+
+10. The true transcription from the 5-best hypotheses is: "nothing says the businessman."
+
+11. The true transcription from the 5-best hypotheses is: "quote an eye for an eye end quote."
+
+12. The true transcription from the 5-best hypotheses is: "the authors do not simply oppose federal programs."
+
+13. The true transcription from the 5-best hypotheses is: "they realize that no reform agenda can succeed if it seems to be quote motivated by stinginess end quote or hostility to the poor."
+
+14. The true transcription from the 5-best hypotheses is: "conservatives they say must accept the need for a national anti poverty policy but base it on better quote mechanisms end quote than liberals have offered."
+
+15. The true transcription from the 5-best hypotheses is: "embodying as it does both this constructive attitude and obvious mastery quote out of the poverty trap end quote shows again that conservative social policy analysis has come of age."
+
+16. The true transcription from the 5-best hypotheses is: "with that in mind here is a glossary of terms used to describe investment risks and risk related concepts."
+
+17. The true transcription from the 5-best hypotheses is: "it does not pretend to be complete and it will not protect anyone from losing a bundle."
+
+18. The true transcription from the 5-best hypotheses is: "some risks for instance that the dow jones industrial average will drop five hundred points in a day do not lend themselves to fancy language."
+
+19. The true transcription from the 5-best hypotheses is: "but knowing what you are up against can be at least half the battle."
+
+20. The true transcription from the 5-best hypotheses is: "and if you do lose anyway some of this language might help you impress your friends when you try to explain why."
+Here are the complete 20 results:
+
+1. The true transcription from the 5-best hypotheses is: "friday is injunction blocks la debenture trust corporation chase manhattan bank and the electoral reform society from releasing details of the vote other than the results to nigeria."
+
+2. The true transcription from the 5-best hypotheses is: "the trust represented creditors in negotiations with nigeria over terms for repaying the notes which were issued to cover uninsured trade debts dating back to the one thousand, nine hundred and seventys."
+
+3. The true transcription from the 5-best hypotheses is: "chase is nigeria is registrar and the society is an independent organization hired to count votes."
+
+4. The true transcription from the 5-best hypotheses is: "as a boy in boston working after school to finance my obsession with jazz i had bought each red label commodore as it came out."
+
+5. The true transcription from the 5-best hypotheses is: "they were a dollar fifty each a lot of money for a recording then but they sure were special."
+
+6. The true transcription from the 5-best hypotheses is: "unlike pop sides those lifespans were like those of mosquitoes the jazz on commodore was forever."
+
+7. The true transcription from the 5-best hypotheses is: "superior industries international fell three point two five to fifteen point five."
+
+8. The true transcription from the 5-best hypotheses is: "the company said it ended talks on a possible business combination."
+
+9. The true transcription from the 5-best hypotheses is: "it did not elaborate."
+
+10. The true transcription from the 5-best hypotheses is: "coniston declined to discuss its plans if its defeat is confirmed but indicated that it does not plan to simply walk away."
+
+11. The true transcription from the 5-best hypotheses is: "that is a big no comment."
+
+12. The true transcription from the 5-best hypotheses is: "we honestly do not know what our alternatives are said paul e turney one of coniston's three principal partners."
+
+13. The true transcription from the 5-best hypotheses is: "we do not have any fixed course of action right now."
+
+14. The true transcription from the 5-best hypotheses is: "we have a big commitment to the company."
+
+15. The true transcription from the 5-best hypotheses is: "corporate and municipal issues also declined slightly in light trading period."
+
+16. The true transcription from the 5-best hypotheses is: "in a minute the deal is closed."
+
+17. The true transcription from the 5-best hypotheses is: "mister barrett says he paid $one hundred and seventy-five thousand for the rolls only six months ago."
+
+18. The true transcription from the 5-best hypotheses is: "he expects the japanese agent to sell it for $two hundred and seventy-five thousand."
+
+19. The true transcription from the 5-best hypotheses is: "un peace officers said a ceasefire that began saturday in the iran iraq war appears to be holding despite charges of violations by both sides."
+
+20. The true transcription from the 5-best hypotheses is: "iraq said one of its soldiers was killed by a sniper and iran said iraq troops continued firing after their deadline."
+Here are the complete 20 results, analyzing and rescoring the 5-best hypotheses for each:
+
+1. The true transcription from the 5-best hypotheses is: "both countries are speeding the rebuilding of war damaged oil facilities."
+
+2. The true transcription from the 5-best hypotheses is: "quote obviously we were disappointed we did not get a larger award."
+
+3. The true transcription from the 5-best hypotheses is: "we believed our application was justified said daniel l berger one of the lawyers representing the plaintiffs."
+
+4. The true transcription from the 5-best hypotheses is: "he said he did not know whether the lawyers would appeal because so many were involved and there was not any agreement on how to proceed."
+
+5. The true transcription from the 5-best hypotheses is: "peter whitman president of dewey square investors in boston agreed that interest rates will rise further."
+
+6. The true transcription from the 5-best hypotheses is: "the near term trend is up he said."
+
+7. The true transcription from the 5-best hypotheses is: "we are near term quite defensive but longer term more optimistic."
+
+8. The true transcription from the 5-best hypotheses is: "the papers comprise the public record of the pennzoil versus."
+
+9. The true transcription from the 5-best hypotheses is: "texaco litigation in houston plus its appeal and related litigation in delaware and oklahoma."
+
+10. The true transcription from the 5-best hypotheses is: "also included are portions of texaco's bankruptcy case that relate to the original lawsuit and verdict mister shattuck says."
+Here are the complete 20 results:
+
+1. The true transcription from the 5-best hypotheses is: "Saatchi officials said the management restructuring might accelerate its efforts to persuade clients to use the firm as a one-stop shop for business services."
+
+2. The true transcription from the 5-best hypotheses is: "Quote it makes sense to put the divisions together at the top strategic level unquote a Saatchi official said."
+
+3. The true transcription from the 5-best hypotheses is: "With the integration of communications and consulting units there may be a greater degree of cross-fertilization Mister Miller said in a statement."
+
+4. The true transcription from the 5-best hypotheses is: "As he talks his wife and two teenage daughters hurry in from the rain and kiss him on the cheek."
+
+5. The true transcription from the 5-best hypotheses is: "The mother reports that all the shops were closed and she could not find any bread."
+
+6. The true transcription from the 5-best hypotheses is: "He chats with her briefly then resumes his political analysis."
+
+7. The true transcription from the 5-best hypotheses is: "Quote we have a dirty war exactly the same as in Argentina end quote he says."
+
+8. The true transcription from the 5-best hypotheses is: "Quote it is not acceptable but it is understandable."
+
+9. The true transcription from the 5-best hypotheses is: "And what should the government do about the murders."
+
+10. The true transcription from the 5-best hypotheses is: "Nothing says the businessman."
+
+11. The true transcription from the 5-best hypotheses is: "Quote an eye for an eye end quote."
+
+12. The true transcription from the 5-best hypotheses is: "The authors do not simply oppose federal programs."
+
+13. The true transcription from the 5-best hypotheses is: "They realize that no reform agenda can succeed if it seems to be quote motivated by stinginess end quote or hostility to the poor."
+
+14. The true transcription from the 5-best hypotheses is: "Conservatives they say must accept the need for a national anti-poverty policy but base it on better quote mechanisms end quote than liberals have offered."
+
+15. The true transcription from the 5-best hypotheses is: "Embodying as it does both this constructive attitude and obvious mastery quote out of the poverty trap end quote shows again that conservative social policy analysis has come of age."
+
+16. The true transcription from the 5-best hypotheses is: "With that in mind here is a glossary of terms used to describe investment risks and risk-related concepts."
+
+17. The true transcription from the 5-best hypotheses is: "It does not pretend to be complete and it will not protect anyone from losing a bundle."
+
+18. The true transcription from the 5-best hypotheses is: "Some risks for instance that the Dow Jones Industrial Average will drop five hundred points in a day do not lend themselves to fancy language."
+
+19. The true transcription from the 5-best hypotheses is: "But knowing what you are up against can be at least half the battle."
+
+20. The true transcription from the 5-best hypotheses is: "And if you do lose anyway some of this language might help you impress your friends when you try to explain why."
+Here are the complete 20 results:
+
+1. The true transcription from the 5-best hypotheses is: "An injunction is blocking LA Debenture Trust Corporation, Chase Manhattan Bank, and the Electoral Reform Society from releasing details of the vote other than the results to Nigeria."
+
+2. The true transcription from the 5-best hypotheses is: "The trust represented creditors in negotiations with Nigeria over terms for repaying the notes, which were issued to cover uninsured trade debts dating back to the 1970s."
+
+3. The true transcription from the 5-best hypotheses is: "Chase is Nigeria's registrar and the society is an independent organization hired to count votes."
+
+4. The true transcription from the 5-best hypotheses is: "As a boy in Boston working after school to finance my obsession with jazz, I had bought each red label Commodore as it came out."
+
+5. The true transcription from the 5-best hypotheses is: "They were a dollar fifty each, a lot of money for a recording then, but they sure were special."
+
+6. The true transcription from the 5-best hypotheses is: "Unlike pop sides whose lifespans were like those of mosquitoes, the jazz on Commodore was forever."
+
+7. The true transcription from the 5-best hypotheses is: "Superior Industries International fell three and a quarter to fifteen and a half."
+
+8. The true transcription from the 5-best hypotheses is: "The company said it ended talks on a possible business combination."
+
+9. The true transcription from the 5-best hypotheses is: "It did not elaborate."
+
+10. The true transcription from the 5-best hypotheses is: "Coniston declined to discuss its plans if its defeat is confirmed but indicated that it does not plan to simply walk away."
+
+11. The true transcription from the 5-best hypotheses is: "That is a big no comment."
+
+12. The true transcription from the 5-best hypotheses is: "We honestly do not know what our alternatives are, said Paul E. Turney, one of Coniston's three principal partners."
+
+13. The true transcription from the 5-best hypotheses is: "We do not have any fixed course of action right now."
+
+14. The true transcription from the 5-best hypotheses is: "We have a big commitment to the company."
+
+15. The true transcription from the 5-best hypotheses is: "We can not just disappear even if we wanted to."
+
+16. The true transcription from the 5-best hypotheses is: "In a minute the deal is closed."
+
+17. The true transcription from the 5-best hypotheses is: "Mister Barrett says he paid $175,000 for the Rolls only six months ago."
+
+18. The true transcription from the 5-best hypotheses is: "He expects the Japanese agent to sell it for $275,000."
+
+19. The true transcription from the 5-best hypotheses is: "UN peace officers said a ceasefire that began Saturday in the Iran-Iraq war appears to be holding despite charges of violations by both sides."
+
+20. The true transcription from the 5-best hypotheses is: "Iraq said one of its soldiers was killed by a sniper and Iran said Iraqi troops continued firing after their deadline."
+Here are the complete 20 results in order:
+
+1. The true transcription from the 5-best hypotheses is: "Both countries are speeding the rebuilding of war damaged oil facilities."
+
+2. The true transcription from the 5-best hypotheses is: "Quote obviously we were disappointed we did not get a larger award."
+
+3. The true transcription from the 5-best hypotheses is: "We believed our application was justified said Daniel L. Berger one of the lawyers representing the plaintiffs."
+
+4. The true transcription from the 5-best hypotheses is: "He said he did not know whether the lawyers would appeal because so many were involved and there was not any agreement on how to proceed."
+
+5. The true transcription from the 5-best hypotheses is: "Peter Whitman president of Dewey Square Investors in Boston agreed that interest rates will rise further."
+
+6. The true transcription from the 5-best hypotheses is: "The near term trend is up he said."
+
+7. The true transcription from the 5-best hypotheses is: "We are near term quite defensive but longer term more optimistic."
+
+8. The true transcription from the 5-best hypotheses is: "The papers comprise the public record of the Pennzoil versus."
+
+9. The true transcription from the 5-best hypotheses is: "Texaco litigation in Houston plus its appeal and related litigation in Delaware and Oklahoma."
+
+10. The true transcription from the 5-best hypotheses is: "Also included are portions of Texaco's bankruptcy case that relate to the original lawsuit and verdict Mister Shattuck says."
+Here's a new prompt generated by crossover of the two given prompts:
+
+As an expert in Automatic Speech Recognition (ASR) and financial language, your task is to analyze a set of transcription hypotheses from a financial meeting discussion. You will be presented with the top 5 hypotheses for each segment. Critically evaluate these options using English grammar, paying special attention to present continuous tense and corporate initialisms. Consider industry-specific terminology, context, and potential speaker accents or background noise interference to identify the most accurate transcription. Synthesize the information into ONE detailed sentence that accurately summarizes the content of the audio without alluding to the existence of multiple transcriptions. This challenging task requires careful consideration of financial jargon and numerical data to provide the most precise representation of the discussion.
+
+2. Here's the final mutated prompt:
+
+<prompt>
+As a linguistic expert specializing in financial communication and Automatic Speech Recognition (ASR), your task is to analyze and refine a set of transcription hypotheses from a high-stakes financial meeting. You will receive the top 5 hypotheses for each audio segment. Your goal is to critically evaluate these options, considering English grammar (especially present continuous tense), corporate initialisms, industry-specific terminology, and potential speech variations due to accents or background noise. After careful analysis, synthesize the most accurate elements into a single, comprehensive sentence that captures the essence of the discussion. This sentence should seamlessly integrate financial jargon, numerical data, and contextual nuances without revealing the existence of multiple transcription options. Your final output should read as a polished, professional summary that could be presented to senior executives or stakeholders.
+</prompt>
+Here's a new prompt generated by crossover of the two given prompts:
+
+Analyze and synthesize multiple transcription hypotheses from a financial meeting discussion, critically evaluating them for grammatical correctness, present continuous tense, and corporate initialisms. Your task is to produce ONE comprehensive and detailed sentence that accurately captures the key financial data, ongoing actions, and essential content of the audio, without referencing the existence of multiple transcriptions. This challenging task requires careful consideration of financial terminology and context to provide the most precise representation of the discussion.
+
+2. Here's the final mutated prompt, bracketed as requested:
+
+<prompt>
+Analyze and synthesize multiple transcription hypotheses from a financial meeting discussion, critically evaluating them for grammatical accuracy, present continuous tense usage, and proper corporate initialisms. Your task is to craft ONE comprehensive, detailed, and grammatically flawless sentence that encapsulates the key financial data, ongoing actions, and essential content of the audio. This sentence should provide a precise representation of the discussion, incorporating relevant financial terminology and context, while maintaining a professional tone. Ensure the final output does not allude to the existence of multiple transcriptions or the synthesis process.
+</prompt>
+Here's the result of crossover between Prompt 1 and Prompt 2:
+
+Analyze and synthesize multiple transcription hypotheses from a financial meeting discussion, critically evaluating them for English grammar, present continuous tense, and corporate initialisms. Your task is to produce ONE detailed and comprehensive sentence that accurately captures the key financial data, ongoing actions, and essential content of the audio, without alluding to the existence of multiple transcriptions. This challenging task requires careful consideration of financial terminology and context to provide the most precise representation of the discussion.
+
+2. Here's the mutated final prompt, bracketed as requested:
+
+<prompt>
+Analyze and synthesize multiple transcription hypotheses from a financial meeting discussion, critically evaluating them for English grammar, present continuous tense, and corporate initialisms. Your task is to craft ONE concise yet comprehensive sentence that accurately captures the key financial data, ongoing actions, and essential content of the audio. This sentence should seamlessly integrate financial terminology, maintain grammatical accuracy, and provide a precise representation of the discussion without referencing the existence of multiple transcriptions. Consider the broader context and implications of the financial information presented to ensure the most accurate and meaningful summary possible.
+</prompt>
+Here's the result of crossover between Prompt 1 and Prompt 2:
+
+Analyze and synthesize multiple transcription hypotheses from a financial meeting discussion, critically evaluating them for English grammar, present continuous tense, and corporate initialisms. Your task is to produce ONE detailed and comprehensive sentence that accurately captures the key financial data, ongoing actions, and essential content of the audio, without alluding to the existence of multiple transcriptions. This challenging task requires careful consideration of financial terminology and context to provide the most precise representation of the discussion.
+
+2. Here's the mutated final prompt, bracketed as requested:
+
+<prompt>
+Analyze and synthesize multiple transcription hypotheses from a financial meeting discussion, critically evaluating them for English grammar, present continuous tense, and corporate initialisms. Your task is to craft ONE concise yet comprehensive sentence that accurately captures the key financial data, ongoing actions, and essential content of the audio. This sentence should seamlessly integrate financial terminology, maintain grammatical accuracy, and provide a precise representation of the discussion without referencing the existence of multiple transcriptions. Consider the broader context and implications of the financial information presented to ensure the most accurate and meaningful summary possible.
+</prompt>
+Here's a crossover of the two prompts:
+
+As an expert in Automatic Speech Recognition (ASR) and financial language, your task is to analyze and synthesize multiple transcription hypotheses of a financial meeting discussion. Critically evaluate the top 5 hypotheses for each segment, focusing on English grammar, especially the use of present continuous tense, which is prevalent in these discussions. Consider industry-specific terminology, financial jargon, corporate initialisms, and context to identify the most accurate transcription. Produce ONE comprehensive sentence that accurately captures the key financial data and ongoing actions described in the audio, without referencing the existence of multiple transcriptions. Be prepared to handle numerical data, potential speaker accents, and background noise interference.
+
+2. Here's the mutated final prompt:
+
+<prompt>
+As a financial language expert specializing in Automatic Speech Recognition (ASR), your task is to analyze and refine multiple transcription hypotheses from a financial meeting. Evaluate up to 5 hypotheses per segment, focusing on grammatical accuracy, particularly the use of present continuous tense, and industry-specific terminology. Synthesize the most accurate elements into a single, comprehensive sentence that captures essential financial data, corporate initialisms, and ongoing actions. Your refined transcription should seamlessly integrate numerical data, account for potential accents or background noise, and maintain the context and tone of a professional financial discussion. Provide a brief explanation of your choices, highlighting how your final sentence best represents the original speech content and financial context.
+</prompt>
+Here are the complete 20 results in order:
+
+1. The true transcription from the 5-best hypotheses is: "Saatchi officials said the management restructuring might accelerate its efforts to persuade clients to use the firm as a one-stop shop for business services."
+
+2. The true transcription from the 5-best hypotheses is: "Quote it makes sense to put the divisions together at the top strategic level unquote a Saatchi official said."
+
+3. The true transcription from the 5-best hypotheses is: "With the integration of communications and consulting units, there may be a greater degree of cross-fertilization, Mr. Miller said in a statement."
+
+4. The true transcription from the 5-best hypotheses is: "As he talks, his wife and two teenage daughters hurry in from the rain and kiss him on the cheek."
+
+5. The true transcription from the 5-best hypotheses is: "The mother reports that all the shops were closed and she could not find any bread."
+
+6. The true transcription from the 5-best hypotheses is: "He chats with her briefly then resumes his political analysis."
+
+7. The true transcription from the 5-best hypotheses is: "Quote we have a dirty war exactly the same as in Argentina end quote he says."
+
+8. The true transcription from the 5-best hypotheses is: "Quote it is not acceptable but it is understandable."
+
+9. The true transcription from the 5-best hypotheses is: "And what should the government do about the murders?"
+
+10. The true transcription from the 5-best hypotheses is: "Nothing, says the businessman."
+
+11. The true transcription from the 5-best hypotheses is: "Quote an eye for an eye end quote."
+
+12. The true transcription from the 5-best hypotheses is: "The authors do not simply oppose federal programs."
+
+13. The true transcription from the 5-best hypotheses is: "They realize that no reform agenda can succeed if it seems to be quote motivated by stinginess end quote or hostility to the poor."
+
+14. The true transcription from the 5-best hypotheses is: "Conservatives, they say, must accept the need for a national anti-poverty policy but base it on better quote mechanisms end quote than liberals have offered."
+
+15. The true transcription from the 5-best hypotheses is: "Embodying as it does both this constructive attitude and obvious mastery, quote Out of the Poverty Trap end quote shows again that conservative social policy analysis has come of age."
+
+16. The true transcription from the 5-best hypotheses is: "With that in mind, here is a glossary of terms used to describe investment risks and risk-related concepts."
+
+17. The true transcription from the 5-best hypotheses is: "It does not pretend to be complete and it will not protect anyone from losing a bundle."
+
+18. The true transcription from the 5-best hypotheses is: "Some risks, for instance that the Dow Jones Industrial Average will drop five hundred points in a day, do not lend themselves to fancy language."
+
+19. The true transcription from the 5-best hypotheses is: "But knowing what you are up against can be at least half the battle."
+
+20. The true transcription from the 5-best hypotheses is: "And if you do lose anyway, some of this language might help you impress your friends when you try to explain why."
+Here are the complete 20 results in order:
+
+1. The true transcription from the 5-best hypotheses is: "Friday's injunction blocks La Debenture Trust Corporation, Chase Manhattan Bank and the Electoral Reform Society from releasing details of the vote other than the results to Nigeria."
+
+2. The true transcription from the 5-best hypotheses is: "The trust represented creditors in negotiations with Nigeria over terms for repaying the notes, which were issued to cover uninsured trade debts dating back to the 1970s."
+
+3. The true transcription from the 5-best hypotheses is: "Chase is Nigeria's registrar and the society is an independent organization hired to count votes."
+
+4. The true transcription from the 5-best hypotheses is: "As a boy in Boston working after school to finance my obsession with jazz, I had bought each red label Commodore as it came out."
+
+5. The true transcription from the 5-best hypotheses is: "They were $1.50 each, a lot of money for a recording then, but they sure were special."
+
+6. The true transcription from the 5-best hypotheses is: "Unlike pop sides whose lifespans were like those of mosquitoes, the jazz on Commodore was forever."
+
+7. The true transcription from the 5-best hypotheses is: "Superior Industries International fell 3 1/4 to 15 1/2."
+
+8. The true transcription from the 5-best hypotheses is: "The company said it ended talks on a possible business combination."
+
+9. The true transcription from the 5-best hypotheses is: "It did not elaborate."
+
+10. The true transcription from the 5-best hypotheses is: "Coniston declined to discuss its plans if its defeat is confirmed but indicated that it does not plan to simply walk away."
+
+11. The true transcription from the 5-best hypotheses is: "That is a big no comment."
+
+12. The true transcription from the 5-best hypotheses is: "We honestly do not know what our alternatives are, said Paul E. Turney, one of Coniston's three principal partners."
+
+13. The true transcription from the 5-best hypotheses is: "We do not have any fixed course of action right now."
+
+14. The true transcription from the 5-best hypotheses is: "We have a big commitment to the company."
+
+15. The true transcription from the 5-best hypotheses is: "Corporate and municipal issues also declined slightly in light trading."
+
+16. The true transcription from the 5-best hypotheses is: "In a minute the deal is closed."
+
+17. The true transcription from the 5-best hypotheses is: "Mr. Barrett says he paid $175,000 for the Rolls only six months ago."
+
+18. The true transcription from the 5-best hypotheses is: "He expects the Japanese agent to sell it for $275,000."
+
+19. The true transcription from the 5-best hypotheses is: "UN peace officers said a cease-fire that began Saturday in the Iran-Iraq war appears to be holding despite charges of violations by both sides."
+
+20. The true transcription from the 5-best hypotheses is: "Iraq said one of its soldiers was killed by a sniper and Iran said Iraqi troops continued firing after their deadline."
+Here are the complete 20 results in order:
+
+1. The true transcription from the 5-best hypotheses is: "both countries are speeding the rebuilding of war damaged oil facilities."
+
+2. The true transcription from the 5-best hypotheses is: "quote obviously we were disappointed we did not get a larger award."
+
+3. The true transcription from the 5-best hypotheses is: "we believed our application was justified said daniel l berger one of the lawyers representing the plaintiffs."
+
+4. The true transcription from the 5-best hypotheses is: "he said he did not know whether the lawyers would appeal because so many were involved and there was not any agreement on how to proceed."
+
+5. The true transcription from the 5-best hypotheses is: "peter whitman president of dewey square investors in boston agreed that interest rates will rise further."
+
+6. The true transcription from the 5-best hypotheses is: "the near term trend is up he said."
+
+7. The true transcription from the 5-best hypotheses is: "we are near term quite defensive but longer term more optimistic."
+
+8. The true transcription from the 5-best hypotheses is: "the papers comprise the public record of the pennzoil versus."
+
+9. The true transcription from the 5-best hypotheses is: "texaco litigation in houston plus its appeal and related litigation in delaware and oklahoma."
+
+10. The true transcription from the 5-best hypotheses is: "also included are portions of texaco's bankruptcy case that relate to the original lawsuit and verdict mister shattuck says."
+Here are the complete 20 results:
+
+1. The true transcription from the 5-best hypotheses is: "Saatchi officials said the management restructuring might accelerate its efforts to persuade clients to use the firm as a one-stop shop for business services."
+
+2. The true transcription from the 5-best hypotheses is: "Quote it makes sense to put the divisions together at the top strategic level unquote a Saatchi official said."
+
+3. The true transcription from the 5-best hypotheses is: "With the integration of communications and consulting units, there may be a greater degree of cross-fertilization, Mister Miller said in a statement."
+
+4. The true transcription from the 5-best hypotheses is: "As he talks, his wife and two teenage daughters hurry in from the rain and kiss him on the cheek."
+
+5. The true transcription from the 5-best hypotheses is: "The mother reports that all the shops were closed and she could not find any bread."
+
+6. The true transcription from the 5-best hypotheses is: "He chats with her briefly then resumes his political analysis."
+
+7. The true transcription from the 5-best hypotheses is: "Quote we have a dirty war exactly the same as in Argentina end quote he says."
+
+8. The true transcription from the 5-best hypotheses is: "Quote it is not acceptable but it is understandable."
+
+9. The true transcription from the 5-best hypotheses is: "And what should the government do about the murders?"
+
+10. The true transcription from the 5-best hypotheses is: "Nothing, says the businessman."
+
+11. The true transcription from the 5-best hypotheses is: "Quote an eye for an eye end quote."
+
+12. The true transcription from the 5-best hypotheses is: "The authors do not simply oppose federal programs."
+
+13. The true transcription from the 5-best hypotheses is: "They realize that no reform agenda can succeed if it seems to be quote motivated by stinginess end quote or hostility to the poor."
+
+14. The true transcription from the 5-best hypotheses is: "Conservatives, they say, must accept the need for a national anti-poverty policy but base it on better quote mechanisms end quote than liberals have offered."
+
+15. The true transcription from the 5-best hypotheses is: "Embodying as it does both this constructive attitude and obvious mastery, quote out of the poverty trap end quote shows again that conservative social policy analysis has come of age."
+
+16. The true transcription from the 5-best hypotheses is: "With that in mind, here is a glossary of terms used to describe investment risks and risk-related concepts."
+
+17. The true transcription from the 5-best hypotheses is: "It does not pretend to be complete and it will not protect anyone from losing a bundle."
+
+18. The true transcription from the 5-best hypotheses is: "Some risks, for instance that the Dow Jones Industrial Average will drop five hundred points in a day, do not lend themselves to fancy language."
+
+19. The true transcription from the 5-best hypotheses is: "But knowing what you are up against can be at least half the battle."
+
+20. The true transcription from the 5-best hypotheses is: "And if you do lose anyway, some of this language might help you impress your friends when you try to explain why."
+Here are the complete 20 results:
+
+1. The true transcription from the 5-best hypotheses is: "Friday's injunction blocks La Debenture Trust Corporation, Chase Manhattan Bank and the Electoral Reform Society from releasing details of the vote other than the results to Nigeria."
+
+2. The true transcription from the 5-best hypotheses is: "The trust represented creditors in negotiations with Nigeria over terms for repaying the notes, which were issued to cover uninsured trade debts dating back to the 1970s."
+
+3. The true transcription from the 5-best hypotheses is: "Chase is Nigeria's registrar and the society is an independent organization hired to count votes."
+
+4. The true transcription from the 5-best hypotheses is: "As a boy in Boston working after school to finance my obsession with jazz, I had bought each red label Commodore as it came out."
+
+5. The true transcription from the 5-best hypotheses is: "They were a dollar fifty each, a lot of money for a recording then, but they sure were special."
+
+6. The true transcription from the 5-best hypotheses is: "Unlike pop sides whose lifespans were like those of mosquitoes, the jazz on Commodore was forever."
+
+7. The true transcription from the 5-best hypotheses is: "Superior Industries International fell three and a quarter to fifteen and a half."
+
+8. The true transcription from the 5-best hypotheses is: "The company said it ended talks on a possible business combination."
+
+9. The true transcription from the 5-best hypotheses is: "It did not elaborate."
+
+10. The true transcription from the 5-best hypotheses is: "Coniston declined to discuss its plans if its defeat is confirmed but indicated that it does not plan to simply walk away."
+
+11. The true transcription from the 5-best hypotheses is: "That is a big no comment."
+
+12. The true transcription from the 5-best hypotheses is: "We honestly do not know what our alternatives are, said Paul E. Turney, one of Coniston's three principal partners."
+
+13. The true transcription from the 5-best hypotheses is: "We do not have any fixed course of action right now."
+
+14. The true transcription from the 5-best hypotheses is: "We have a big commitment to the company."
+
+15. The true transcription from the 5-best hypotheses is: "We can not just disappear even if we wanted to."
+
+16. The true transcription from the 5-best hypotheses is: "In a minute the deal is closed."
+
+17. The true transcription from the 5-best hypotheses is: "Mr. Barrett says he paid $175,000 for the Rolls only six months ago."
+
+18. The true transcription from the 5-best hypotheses is: "He expects the Japanese agent to sell it for $275,000."
+
+19. The true transcription from the 5-best hypotheses is: "UN peace officers said a ceasefire that began Saturday in the Iran-Iraq war appears to be holding despite charges of violations by both sides."
+
+20. The true transcription from the 5-best hypotheses is: "Iraq said one of its soldiers was killed by a sniper and Iran said Iraqi troops continued firing after their deadline."
+Here are the complete 20 results in order:
+
+1. The true transcription from the 5-best hypotheses is: "both countries are speeding the rebuilding of war damaged oil facilities."
+
+2. The true transcription from the 5-best hypotheses is: "quote obviously we were disappointed we did not get a larger award."
+
+3. The true transcription from the 5-best hypotheses is: "we believed our application was justified said daniel l berger one of the lawyers representing the plaintiffs."
+
+4. The true transcription from the 5-best hypotheses is: "he said he did not know whether the lawyers would appeal because so many were involved and there was not any agreement on how to proceed."
+
+5. The true transcription from the 5-best hypotheses is: "peter whitman president of dewey square investors in boston agreed that interest rates will rise further."
+
+6. The true transcription from the 5-best hypotheses is: "the near term trend is up he said."
+
+7. The true transcription from the 5-best hypotheses is: "we are near term quite defensive but longer term more optimistic."
+
+8. The true transcription from the 5-best hypotheses is: "the papers comprise the public record of the pennzoil versus."
+
+9. The true transcription from the 5-best hypotheses is: "texaco litigation in houston plus its appeal and related litigation in delaware and oklahoma."
+
+10. The true transcription from the 5-best hypotheses is: "also included are portions of texaco is bankruptcy case that relate to the original lawsuit and verdict mister shattuck says."
+Here are the completed transcriptions for all 20 examples:
+
+1. The true transcription from the 5-best hypotheses is: "Saatchi officials said the management restructuring might accelerate its efforts to persuade clients to use the firm as a one-stop shop for business services."
+
+2. The true transcription from the 5-best hypotheses is: "Quote it makes sense to put the divisions together at the top strategic level unquote a Saatchi official said."
+
+3. The true transcription from the 5-best hypotheses is: "With the integration of communications and consulting units, there may be a greater degree of cross-fertilization, Mr. Miller said in a statement."
+
+4. The true transcription from the 5-best hypotheses is: "As he talks, his wife and two teenage daughters hurry in from the rain and kiss him on the cheek."
+
+5. The true transcription from the 5-best hypotheses is: "The mother reports that all the shops were closed and she could not find any bread."
+
+6. The true transcription from the 5-best hypotheses is: "He chats with her briefly then resumes his political analysis."
+
+7. The true transcription from the 5-best hypotheses is: "Quote we have a dirty war exactly the same as in Argentina end quote he says."
+
+8. The true transcription from the 5-best hypotheses is: "Quote it is not acceptable but it is understandable."
+
+9. The true transcription from the 5-best hypotheses is: "And what should the government do about the murders?"
+
+10. The true transcription from the 5-best hypotheses is: "Nothing says the businessman."
+
+11. The true transcription from the 5-best hypotheses is: "Quote an eye for an eye end quote."
+
+12. The true transcription from the 5-best hypotheses is: "The authors do not simply oppose federal programs."
+
+13. The true transcription from the 5-best hypotheses is: "They realize that no reform agenda can succeed if it seems to be quote motivated by stinginess end quote or hostility to the poor."
+
+14. The true transcription from the 5-best hypotheses is: "Conservatives they say must accept the need for a national anti-poverty policy but base it on better quote mechanisms end quote than liberals have offered."
+
+15. The true transcription from the 5-best hypotheses is: "Embodying as it does both this constructive attitude and obvious mastery quote out of the poverty trap end quote shows again that conservative social policy analysis has come of age."
+
+16. The true transcription from the 5-best hypotheses is: "With that in mind here is a glossary of terms used to describe investment risks and risk-related concepts."
+
+17. The true transcription from the 5-best hypotheses is: "It does not pretend to be complete and it will not protect anyone from losing a bundle."
+
+18. The true transcription from the 5-best hypotheses is: "Some risks for instance that the Dow Jones Industrial Average will drop five hundred points in a day do not lend themselves to fancy language."
+
+19. The true transcription from the 5-best hypotheses is: "But knowing what you are up against can be at least half the battle."
+
+20. The true transcription from the 5-best hypotheses is: "And if you do lose anyway some of this language might help you impress your friends when you try to explain why."
+Here are the complete 20 results:
+
+1. The true transcription from the 5-best hypotheses is: "friday's injunction blocks la debenture trust corporation chase manhattan bank and the electoral reform society from releasing details of the vote other than the results to nigeria."
+
+2. The true transcription from the 5-best hypotheses is: "the trust represented creditors in negotiations with nigeria over terms for repaying the notes which were issued to cover uninsured trade debts dating back to the one thousand, nine hundred and seventys."
+
+3. The true transcription from the 5-best hypotheses is: "chase is nigeria's registrar and the society is an independent organization hired to count votes."
+
+4. The true transcription from the 5-best hypotheses is: "as a boy in boston working after school to finance my obsession with jazz i had bought each red label commodore as it came out."
+
+5. The true transcription from the 5-best hypotheses is: "as of april first, all interest income will be taxed at twenty percent."
+
+6. The true transcription from the 5-best hypotheses is: "unlike pop sides whose lifespans were like those of mosquitoes, the jazz on commodore was forever."
+
+7. The true transcription from the 5-best hypotheses is: "superior industries international fell three and a quarter to fifteen and a half."
+
+8. The true transcription from the 5-best hypotheses is: "the company said it ended talks on a possible business combination."
+
+9. The true transcription from the 5-best hypotheses is: "it did not elaborate."
+
+10. The true transcription from the 5-best hypotheses is: "coniston declined to discuss its plans if its defeat is confirmed but indicated that it does not plan to simply walk away."
+
+11. The true transcription from the 5-best hypotheses is: "that is a big no comment."
+
+12. The true transcription from the 5-best hypotheses is: "we honestly do not know what our alternatives are said paul e turney one of coniston's three principal partners."
+
+13. The true transcription from the 5-best hypotheses is: "we do not have any fixed course of action right now."
+
+14. The true transcription from the 5-best hypotheses is: "we have a big commitment to the company."
+
+15. The true transcription from the 5-best hypotheses is: "corporate and municipal issues also declined slightly in light trading."
+
+16. The true transcription from the 5-best hypotheses is: "in a minute the deal is closed."
+
+17. The true transcription from the 5-best hypotheses is: "mister barrett says he paid $one hundred and seventy-five thousand for the rolls only six months ago."
+
+18. The true transcription from the 5-best hypotheses is: "he expects the japanese agent to sell it for $two hundred and seventy-five thousand."
+
+19. The true transcription from the 5-best hypotheses is: "un peace officers said a ceasefire that began saturday in the iran iraq war appears to be holding despite charges of violations by both sides."
+
+20. The true transcription from the 5-best hypotheses is: "iraq said one of its soldiers was killed by a sniper and iran said iraq's troops continued firing after their deadline."
+Here are the complete 20 results in order:
+
+1. The true transcription from the 5-best hypotheses is: "both countries are speeding the rebuilding of war damaged oil facilities."
+
+2. The true transcription from the 5-best hypotheses is: "quote obviously we were disappointed we did not get a larger award."
+
+3. The true transcription from the 5-best hypotheses is: "we believed our application was justified said daniel l berger one of the lawyers representing the plaintiffs."
+
+4. The true transcription from the 5-best hypotheses is: "he said he did not know whether the lawyers would appeal because so many were involved and there was not any agreement on how to proceed."
+
+5. The true transcription from the 5-best hypotheses is: "peter whitman president of dewey square investors in boston agreed that interest rates will rise further."
+
+6. The true transcription from the 5-best hypotheses is: "the near term trend is up he said."
+
+7. The true transcription from the 5-best hypotheses is: "we are near term quite defensive but longer term more optimistic."
+
+8. The true transcription from the 5-best hypotheses is: "the papers comprise the public record of the pennzoil versus."
+
+9. The true transcription from the 5-best hypotheses is: "texaco litigation in houston plus its appeal and related litigation in delaware and oklahoma."
+
+10. The true transcription from the 5-best hypotheses is: "also included are portions of texaco is bankruptcy case that relate to the original lawsuit and verdict mister shattuck says."
+Here are the completed transcriptions for all 20 examples:
+
+1. The true transcription from the 5-best hypotheses is: "Saatchi officials said the management restructuring might accelerate its efforts to persuade clients to use the firm as a one-stop shop for business services."
+
+2. The true transcription from the 5-best hypotheses is: "Quote it makes sense to put the divisions together at the top strategic level unquote a Saatchi official said."
+
+3. The true transcription from the 5-best hypotheses is: "With the integration of communications and consulting units, there may be a greater degree of cross-fertilization, Mr. Miller said in a statement."
+
+4. The true transcription from the 5-best hypotheses is: "As he talks, his wife and two teenage daughters hurry in from the rain and kiss him on the cheek."
+
+5. The true transcription from the 5-best hypotheses is: "The mother reports that all the shops were closed and she could not find any bread."
+
+6. The true transcription from the 5-best hypotheses is: "He chats with her briefly then resumes his political analysis."
+
+7. The true transcription from the 5-best hypotheses is: "Quote we have a dirty war exactly the same as in Argentina end quote he says."
+
+8. The true transcription from the 5-best hypotheses is: "Quote it is not acceptable but it is understandable."
+
+9. The true transcription from the 5-best hypotheses is: "And what should the government do about the murders?"
+
+10. The true transcription from the 5-best hypotheses is: "Nothing says the businessman."
+
+11. The true transcription from the 5-best hypotheses is: "Quote an eye for an eye end quote."
+
+12. The true transcription from the 5-best hypotheses is: "The authors do not simply oppose federal programs."
+
+13. The true transcription from the 5-best hypotheses is: "They realize that no reform agenda can succeed if it seems to be quote motivated by stinginess end quote or hostility to the poor."
+
+14. The true transcription from the 5-best hypotheses is: "Conservatives they say must accept the need for a national anti-poverty policy but base it on better quote mechanisms end quote than liberals have offered."
+
+15. The true transcription from the 5-best hypotheses is: "Embodying as it does both this constructive attitude and obvious mastery quote out of the poverty trap end quote shows again that conservative social policy analysis has come of age."
+
+16. The true transcription from the 5-best hypotheses is: "With that in mind here is a glossary of terms used to describe investment risks and risk-related concepts."
+
+17. The true transcription from the 5-best hypotheses is: "It does not pretend to be complete and it will not protect anyone from losing a bundle."
+
+18. The true transcription from the 5-best hypotheses is: "Some risks for instance that the Dow Jones Industrial Average will drop five hundred points in a day do not lend themselves to fancy language."
+
+19. The true transcription from the 5-best hypotheses is: "But knowing what you are up against can be at least half the battle."
+
+20. The true transcription from the 5-best hypotheses is: "And if you do lose anyway some of this language might help you impress your friends when you try to explain why."
+Here are the complete 20 results:
+
+1. The true transcription from the 5-best hypotheses is: "friday's injunction blocks la debenture trust corporation chase manhattan bank and the electoral reform society from releasing details of the vote other than the results to nigeria."
+
+2. The true transcription from the 5-best hypotheses is: "the trust represented creditors in negotiations with nigeria over terms for repaying the notes which were issued to cover uninsured trade debts dating back to the one thousand, nine hundred and seventys."
+
+3. The true transcription from the 5-best hypotheses is: "chase is nigeria's registrar and the society is an independent organization hired to count votes."
+
+4. The true transcription from the 5-best hypotheses is: "as a boy in boston working after school to finance my obsession with jazz i had bought each red label commodore as it came out."
+
+5. The true transcription from the 5-best hypotheses is: "as of april first, all interest income will be taxed at twenty percent."
+
+6. The true transcription from the 5-best hypotheses is: "unlike pop sides whose lifespans were like those of mosquitoes, the jazz on commodore was forever."
+
+7. The true transcription from the 5-best hypotheses is: "superior industries international fell three and a quarter to fifteen and a half."
+
+8. The true transcription from the 5-best hypotheses is: "the company said it ended talks on a possible business combination."
+
+9. The true transcription from the 5-best hypotheses is: "it did not elaborate."
+
+10. The true transcription from the 5-best hypotheses is: "coniston declined to discuss its plans if its defeat is confirmed but indicated that it does not plan to simply walk away."
+
+11. The true transcription from the 5-best hypotheses is: "that is a big no comment."
+
+12. The true transcription from the 5-best hypotheses is: "we honestly do not know what our alternatives are said paul e turney one of coniston's three principal partners."
+
+13. The true transcription from the 5-best hypotheses is: "we do not have any fixed course of action right now."
+
+14. The true transcription from the 5-best hypotheses is: "we have a big commitment to the company."
+
+15. The true transcription from the 5-best hypotheses is: "corporate and municipal issues also declined slightly in light trading."
+
+16. The true transcription from the 5-best hypotheses is: "in a minute the deal is closed."
+
+17. The true transcription from the 5-best hypotheses is: "mister barrett says he paid $one hundred and seventy-five thousand for the rolls only six months ago."
+
+18. The true transcription from the 5-best hypotheses is: "he expects the japanese agent to sell it for $two hundred and seventy-five thousand."
+
+19. The true transcription from the 5-best hypotheses is: "un peace officers said a ceasefire that began saturday in the iran iraq war appears to be holding despite charges of violations by both sides."
+
+20. The true transcription from the 5-best hypotheses is: "iraq said one of its soldiers was killed by a sniper and iran said iraq's troops continued firing after their deadline."
+Here are the complete 20 results in order:
+
+1. The true transcription from the 5-best hypotheses is: "both countries are speeding the rebuilding of war damaged oil facilities."
+
+2. The true transcription from the 5-best hypotheses is: "quote obviously we were disappointed we did not get a larger award."
+
+3. The true transcription from the 5-best hypotheses is: "we believed our application was justified said daniel l berger one of the lawyers representing the plaintiffs."
+
+4. The true transcription from the 5-best hypotheses is: "he said he did not know whether the lawyers would appeal because so many were involved and there was not any agreement on how to proceed."
+
+5. The true transcription from the 5-best hypotheses is: "peter whitman president of dewey square investors in boston agreed that interest rates will rise further."
+
+6. The true transcription from the 5-best hypotheses is: "the near term trend is up he said."
+
+7. The true transcription from the 5-best hypotheses is: "we are near term quite defensive but longer term more optimistic."
+
+8. The true transcription from the 5-best hypotheses is: "the papers comprise the public record of the pennzoil versus."
+
+9. The true transcription from the 5-best hypotheses is: "texaco litigation in houston plus its appeal and related litigation in delaware and oklahoma."
+
+10. The true transcription from the 5-best hypotheses is: "also included are portions of texaco is bankruptcy case that relate to the original lawsuit and verdict mister shattuck says."
+Here are the complete 20 results:
+
+1. The true transcription from the 5-best hypotheses is: "Saatchi officials said the management restructuring might accelerate its efforts to persuade clients to use the firm as a one-stop shop for business services."
+
+2. The true transcription from the 5-best hypotheses is: "Quote 'It makes sense to put the divisions together at the top strategic level,' unquote a Saatchi official said."
+
+3. The true transcription from the 5-best hypotheses is: "With the integration of communications and consulting units, there may be a greater degree of cross-fertilization, Mister Miller said in a statement."
+
+4. The true transcription from the 5-best hypotheses is: "As he talks, his wife and two teenage daughters hurry in from the rain and kiss him on the cheek."
+
+5. The true transcription from the 5-best hypotheses is: "The mother reports that all the shops were closed and she could not find any bread."
+
+6. The true transcription from the 5-best hypotheses is: "He chats with her briefly, then resumes his political analysis."
+
+7. The true transcription from the 5-best hypotheses is: "Quote 'We have a dirty war exactly the same as in Argentina,' end quote he says."
+
+8. The true transcription from the 5-best hypotheses is: "Quote 'It is not acceptable, but it is understandable.'"
+
+9. The true transcription from the 5-best hypotheses is: "And what should the government do about the murders?"
+
+10. The true transcription from the 5-best hypotheses is: "Nothing, says the businessman."
+
+11. The true transcription from the 5-best hypotheses is: "Quote 'An eye for an eye,' end quote."
+
+12. The true transcription from the 5-best hypotheses is: "The authors do not simply oppose federal programs."
+
+13. The true transcription from the 5-best hypotheses is: "They realize that no reform agenda can succeed if it seems to be quote 'motivated by stinginess' end quote or hostility to the poor."
+
+14. The true transcription from the 5-best hypotheses is: "Conservatives, they say, must accept the need for a national anti-poverty policy but base it on better 'mechanisms' than liberals have offered."
+
+15. The true transcription from the 5-best hypotheses is: "Embodying as it does both this constructive attitude and obvious mastery, quote 'Out of the Poverty Trap' end quote shows again that conservative social policy analysis has come of age."
+
+16. The true transcription from the 5-best hypotheses is: "With that in mind, here is a glossary of terms used to describe investment risks and risk-related concepts."
+
+17. The true transcription from the 5-best hypotheses is: "It does not pretend to be complete, and it will not protect anyone from losing a bundle."
+
+18. The true transcription from the 5-best hypotheses is: "Some risks, for instance that the Dow Jones Industrial Average will drop five hundred points in a day, do not lend themselves to fancy language."
+
+19. The true transcription from the 5-best hypotheses is: "But knowing what you are up against can be at least half the battle."
+
+20. The true transcription from the 5-best hypotheses is: "And if you do lose anyway, some of this language might help you impress your friends when you try to explain why."
+Here are the refined transcriptions for all 20 segments:
+
+1. The true transcription from the 5-best hypotheses is: "Friday's injunction blocks La Debenture Trust Corporation, Chase Manhattan Bank, and the Electoral Reform Society from releasing details of the vote other than the results to Nigeria."
+
+2. The true transcription from the 5-best hypotheses is: "The trust represented creditors in negotiations with Nigeria over terms for repaying the notes, which were issued to cover uninsured trade debts dating back to the 1970s."
+
+3. The true transcription from the 5-best hypotheses is: "Chase is Nigeria's registrar, and the society is an independent organization hired to count votes."
+
+4. The true transcription from the 5-best hypotheses is: "As a boy in Boston, working after school to finance my obsession with jazz, I had bought each red label Commodore as it came out."
+
+5. The true transcription from the 5-best hypotheses is: "As of April first, all interest income will be taxed at twenty percent."
+
+6. The true transcription from the 5-best hypotheses is: "Unlike pop sides, whose lifespans were like those of mosquitoes, the jazz on Commodore was forever."
+
+7. The true transcription from the 5-best hypotheses is: "Superior Industries International fell $3.25 to $15.50."
+
+8. The true transcription from the 5-best hypotheses is: "The company said it ended talks on a possible business combination."
+
+9. The true transcription from the 5-best hypotheses is: "It did not elaborate."
+
+10. The true transcription from the 5-best hypotheses is: "Coniston declined to discuss its plans if its defeat is confirmed but indicated that it does not plan to simply walk away."
+
+11. The true transcription from the 5-best hypotheses is: "That is a big no comment."
+
+12. The true transcription from the 5-best hypotheses is: "We honestly do not know what our alternatives are, said Paul E. Turney, one of Coniston's three principal partners."
+
+13. The true transcription from the 5-best hypotheses is: "We do not have any fixed course of action right now."
+
+14. The true transcription from the 5-best hypotheses is: "He says Mr. Halbert should use prices midway in Mr. Weinstein's recommended ranges for stock purchases or sales."
+
+15. The true transcription from the 5-best hypotheses is: "We can't just disappear even if we wanted to."
+
+16. The true transcription from the 5-best hypotheses is: "In a minute the deal is closed."
+
+17. The true transcription from the 5-best hypotheses is: "Mr. Barrett says he paid $175,000 for the Rolls only six months ago."
+
+18. The true transcription from the 5-best hypotheses is: "He expects the Japanese agent to sell it for $275,000."
+
+19. The true transcription from the 5-best hypotheses is: "UN peace officers said a ceasefire that began Saturday in the Iran-Iraq war appears to be holding despite charges of violations by both sides."
+
+20. The true transcription from the 5-best hypotheses is: "Iraq said one of its soldiers was killed by a sniper, and Iran said Iraqi troops continued firing after their deadline."
+Here are the complete 20 results, filling in the question marks:
+
+1. The true transcription from the 5-best hypotheses is: "both countries are speeding the rebuilding of war damaged oil facilities."
+
+2. The true transcription from the 5-best hypotheses is: "quote obviously we were disappointed we did not get a larger award."
+
+3. The true transcription from the 5-best hypotheses is: "we believed our application was justified said daniel l berger one of the lawyers representing the plaintiffs."
+
+4. The true transcription from the 5-best hypotheses is: "he said he did not know whether the lawyers would appeal because so many were involved and there was not any agreement on how to proceed."
+
+5. The true transcription from the 5-best hypotheses is: "peter whitman president of dewey square investors in boston agreed that interest rates will rise further."
+
+6. The true transcription from the 5-best hypotheses is: "the near term trend is up he said."
+
+7. The true transcription from the 5-best hypotheses is: "we are near term quite defensive but longer term more optimistic."
+
+8. The true transcription from the 5-best hypotheses is: "the papers comprise the public record of the pennzoil versus."
+
+9. The true transcription from the 5-best hypotheses is: "texaco litigation in houston plus its appeal and related litigation in delaware and oklahoma."
+
+10. The true transcription from the 5-best hypotheses is: "also included are portions of texaco is bankruptcy case that relate to the original lawsuit and verdict mister shattuck says."
+Here's a new prompt generated by crossover of the two given prompts:
+
+Analyze and synthesize multiple transcription hypotheses from a financial meeting discussion, critically evaluating them for grammatical correctness, present continuous tense, and corporate initialisms. Your task is to produce ONE comprehensive and detailed sentence that accurately captures the key financial data, ongoing actions, and essential content of the audio, without referencing the existence of multiple transcriptions. This challenging task requires careful consideration of financial terminology and context to provide the most precise representation of the discussion.
+
+2. Here's the final mutated prompt, bracketed as requested:
+
+<prompt>
+Analyze and synthesize multiple transcription hypotheses from a financial meeting discussion, critically evaluating them for grammatical accuracy, present continuous tense usage, and proper corporate initialisms. Your task is to craft ONE comprehensive, detailed, and grammatically flawless sentence that encapsulates the key financial data, ongoing actions, and essential content of the audio. This sentence should provide a precise representation of the discussion, incorporating relevant financial terminology and context, while maintaining a professional tone. Ensure the final output does not allude to the existence of multiple transcriptions or the synthesis process.
+</prompt>
+Here's the result of crossover between Prompt 1 and Prompt 2:
+
+Analyze and synthesize multiple transcription hypotheses from a financial meeting discussion, critically evaluating them for grammatical accuracy, present continuous tense usage, and proper corporate initialisms. Your task is to craft ONE comprehensive, detailed, and grammatically flawless sentence that encapsulates the key financial data, ongoing actions, and essential content of the audio. This sentence should provide a precise representation of the discussion, incorporating relevant financial terminology and context, while maintaining a professional tone. Ensure the final output focuses on the essential content without referencing the existence of multiple transcriptions or the synthesis process.
+
+2. Here's the mutated final prompt:
+
+<prompt>
+Analyze and synthesize multiple transcription hypotheses from a financial meeting discussion, critically evaluating them for grammatical accuracy, present continuous tense usage, and proper corporate initialisms. Craft ONE comprehensive, detailed, and grammatically flawless sentence that encapsulates the key financial data, ongoing actions, and essential content of the audio. This sentence should provide a precise representation of the discussion, incorporating relevant financial terminology, market trends, and strategic decisions. Maintain a professional tone and ensure the final output focuses solely on the meeting's core message without alluding to the transcription process or multiple sources.
+</prompt>
+Here's a new prompt generated by crossover of the two given prompts:
+
+Analyze and synthesize multiple transcription hypotheses from a financial meeting discussion, critically evaluating them for grammatical correctness, present continuous tense, and corporate initialisms. Your task is to produce ONE comprehensive and detailed sentence that accurately captures the key financial data, ongoing actions, and essential content of the audio, without referencing the existence of multiple transcriptions. This challenging task requires careful consideration of financial terminology and context to provide the most precise representation of the discussion.
+
+2. Here's the final mutated prompt, bracketed as requested:
+
+<prompt>
+Analyze and synthesize multiple transcription hypotheses from a financial meeting discussion, critically evaluating them for grammatical accuracy, present continuous tense usage, and proper corporate initialisms. Your task is to craft ONE comprehensive, detailed, and grammatically flawless sentence that encapsulates the key financial data, ongoing actions, and essential content of the audio. This sentence should provide a precise representation of the discussion, incorporating relevant financial terminology and context, while maintaining a professional tone. Ensure the final output does not allude to the existence of multiple transcriptions or the synthesis process.
+</prompt>
+Here's the crossover of the two prompts:
+
+Analyze and synthesize multiple transcription hypotheses from a financial meeting discussion, critically evaluating them for grammatical accuracy, present continuous tense usage, and proper corporate initialisms. Your task is to craft ONE comprehensive, detailed, and grammatically flawless sentence that encapsulates the key financial data, ongoing actions, and essential content of the audio. This challenging task requires careful consideration of financial terminology and context to provide the most precise representation of the discussion, while maintaining a professional tone. Ensure the final output does not allude to the existence of multiple transcriptions or the synthesis process.
+
+2. Here's the mutated final prompt:
+
+<prompt>
+Analyze and synthesize multiple transcription hypotheses from a financial meeting discussion, critically evaluating them for grammatical accuracy, present continuous tense usage, and proper corporate initialisms. Your task is to craft ONE comprehensive, detailed, and grammatically impeccable sentence that encapsulates the key financial data, ongoing actions, and essential content of the audio. This challenging task demands meticulous consideration of financial terminology, market trends, and contextual nuances to provide the most precise and insightful representation of the discussion. The final sentence should maintain a professional tone, seamlessly integrate relevant financial jargon, and offer a cohesive summary that could stand alone as a high-level overview of the meeting's core content. Ensure the output does not hint at the existence of multiple transcriptions or the synthesis process, presenting the information as if derived from a single, authoritative source.
+</prompt>
+Here's the result of crossover between Prompt 1 and Prompt 2:
+
+Analyze and synthesize multiple transcription hypotheses from a financial meeting discussion, critically evaluating them for grammatical accuracy, present continuous tense usage, and proper corporate initialisms. Your task is to craft ONE comprehensive, detailed sentence that accurately captures the key financial data, ongoing actions, and essential content described in the audio. This sentence should provide a precise representation of the discussion, incorporating relevant financial terminology and context, while maintaining a professional tone. Ensure the final output is grammatically flawless and does not allude to the existence of multiple transcriptions or the synthesis process.
+
+2. Here's the mutated final prompt:
+
+<prompt>
+Analyze and synthesize multiple transcription hypotheses from a financial meeting discussion, critically evaluating them for grammatical accuracy, present continuous tense usage, and proper corporate initialisms. Your task is to craft ONE comprehensive, detailed sentence that accurately captures the key financial data, ongoing actions, and essential content described in the audio. This sentence should provide a precise and concise representation of the discussion, incorporating relevant financial terminology, numerical data, and contextual information. Ensure the final output is grammatically flawless, maintains a professional tone, and seamlessly integrates all crucial elements without exceeding 50 words or alluding to the existence of multiple transcriptions or the synthesis process.
+</prompt>
+Here are the complete 20 results:
+
+1. The true transcription from the 5-best hypotheses is: "Saatchi officials said the management restructuring might accelerate its efforts to persuade clients to use the firm as a one-stop shop for business services."
+
+2. The true transcription from the 5-best hypotheses is: "Quote it makes sense to put the divisions together at the top strategic level unquote a Saatchi official said."
+
+3. The true transcription from the 5-best hypotheses is: "With the integration of communications and consulting units, there may be a greater degree of cross-fertilization, Mister Miller said in a statement."
+
+4. The true transcription from the 5-best hypotheses is: "As he talks, his wife and two teenage daughters hurry in from the rain and kiss him on the cheek."
+
+5. The true transcription from the 5-best hypotheses is: "The mother reports that all the shops were closed and she could not find any bread."
+
+6. The true transcription from the 5-best hypotheses is: "He chats with her briefly then resumes his political analysis."
+
+7. The true transcription from the 5-best hypotheses is: "Quote we have a dirty war exactly the same as in Argentina end quote he says."
+
+8. The true transcription from the 5-best hypotheses is: "Quote it is not acceptable but it is understandable."
+
+9. The true transcription from the 5-best hypotheses is: "And what should the government do about the murders?"
+
+10. The true transcription from the 5-best hypotheses is: "Nothing, says the businessman."
+
+11. The true transcription from the 5-best hypotheses is: "Quote an eye for an eye end quote."
+
+12. The true transcription from the 5-best hypotheses is: "The authors do not simply oppose federal programs."
+
+13. The true transcription from the 5-best hypotheses is: "They realize that no reform agenda can succeed if it seems to be quote motivated by stinginess end quote or hostility to the poor."
+
+14. The true transcription from the 5-best hypotheses is: "Conservatives, they say, must accept the need for a national anti-poverty policy but base it on better quote mechanisms end quote than liberals have offered."
+
+15. The true transcription from the 5-best hypotheses is: "Embodying as it does both this constructive attitude and obvious mastery, quote out of the poverty trap end quote shows again that conservative social policy analysis has come of age."
+
+16. The true transcription from the 5-best hypotheses is: "With that in mind, here is a glossary of terms used to describe investment risks and risk-related concepts."
+
+17. The true transcription from the 5-best hypotheses is: "It does not pretend to be complete and it will not protect anyone from losing a bundle."
+
+18. The true transcription from the 5-best hypotheses is: "Some risks, for instance that the Dow Jones Industrial Average will drop five hundred points in a day, do not lend themselves to fancy language."
+
+19. The true transcription from the 5-best hypotheses is: "But knowing what you are up against can be at least half the battle."
+
+20. The true transcription from the 5-best hypotheses is: "And if you do lose anyway, some of this language might help you impress your friends when you try to explain why."
+Here are the complete 20 results:
+
+1. The true transcription from the 5-best hypotheses is: "Friday's injunction blocks La Debenture Trust Corporation, Chase Manhattan Bank and the Electoral Reform Society from releasing details of the vote other than the results to Nigeria."
+
+2. The true transcription from the 5-best hypotheses is: "The trust represented creditors in negotiations with Nigeria over terms for repaying the notes, which were issued to cover uninsured trade debts dating back to the 1970s."
+
+3. The true transcription from the 5-best hypotheses is: "Chase is Nigeria's registrar and the society is an independent organization hired to count votes."
+
+4. The true transcription from the 5-best hypotheses is: "As a boy in Boston working after school to finance my obsession with jazz, I had bought each red label Commodore as it came out."
+
+5. The true transcription from the 5-best hypotheses is: "They were a dollar fifty each, a lot of money for a recording then, but they sure were special."
+
+6. The true transcription from the 5-best hypotheses is: "Unlike pop sides whose lifespans were like those of mosquitoes, the jazz on Commodore was forever."
+
+7. The true transcription from the 5-best hypotheses is: "Superior Industries International fell three and a quarter to fifteen and a half."
+
+8. The true transcription from the 5-best hypotheses is: "The company said it ended talks on a possible business combination."
+
+9. The true transcription from the 5-best hypotheses is: "It did not elaborate."
+
+10. The true transcription from the 5-best hypotheses is: "Coniston declined to discuss its plans if its defeat is confirmed but indicated that it does not plan to simply walk away."
+
+11. The true transcription from the 5-best hypotheses is: "That is a big no comment."
+
+12. The true transcription from the 5-best hypotheses is: "We honestly do not know what our alternatives are, said Paul E. Turney, one of Coniston's three principal partners."
+
+13. The true transcription from the 5-best hypotheses is: "We do not have any fixed course of action right now."
+
+14. The true transcription from the 5-best hypotheses is: "We have a big commitment to the company."
+
+15. The true transcription from the 5-best hypotheses is: "We can not just disappear even if we wanted to."
+
+16. The true transcription from the 5-best hypotheses is: "In a minute the deal is closed."
+
+17. The true transcription from the 5-best hypotheses is: "Mr. Barrett says he paid $175,000 for the Rolls only six months ago."
+
+18. The true transcription from the 5-best hypotheses is: "He expects the Japanese agent to sell it for $275,000."
+
+19. The true transcription from the 5-best hypotheses is: "UN peace officers said a ceasefire that began Saturday in the Iran-Iraq war appears to be holding despite charges of violations by both sides."
+
+20. The true transcription from the 5-best hypotheses is: "Iraq said one of its soldiers was killed by a sniper and Iran said Iraqi troops continued firing after their deadline."
+Here are the complete 20 results in order:
+
+1. The true transcription from the 5-best hypotheses is: "both countries are speeding the rebuilding of war damaged oil facilities."
+
+2. The true transcription from the 5-best hypotheses is: "quote obviously we were disappointed we did not get a larger award."
+
+3. The true transcription from the 5-best hypotheses is: "we believed our application was justified said daniel l berger one of the lawyers representing the plaintiffs."
+
+4. The true transcription from the 5-best hypotheses is: "he said he did not know whether the lawyers would appeal because so many were involved and there was not any agreement on how to proceed."
+
+5. The true transcription from the 5-best hypotheses is: "peter whitman president of dewey square investors in boston agreed that interest rates will rise further."
+
+6. The true transcription from the 5-best hypotheses is: "the near term trend is up he said."
+
+7. The true transcription from the 5-best hypotheses is: "we are near term quite defensive but longer term more optimistic."
+
+8. The true transcription from the 5-best hypotheses is: "the papers comprise the public record of the pennzoil versus."
+
+9. The true transcription from the 5-best hypotheses is: "texaco litigation in houston plus its appeal and related litigation in delaware and oklahoma."
+
+10. The true transcription from the 5-best hypotheses is: "also included are portions of texaco is bankruptcy case that relate to the original lawsuit and verdict mister shattuck says."
+Here are the completed transcriptions for all 20 examples:
+
+1. The true transcription from the 5-best hypotheses is: "Saatchi officials said the management restructuring might accelerate its efforts to persuade clients to use the firm as a one-stop shop for business services."
+
+2. The true transcription from the 5-best hypotheses is: "Quote it makes sense to put the divisions together at the top strategic level unquote a Saatchi official said."
+
+3. The true transcription from the 5-best hypotheses is: "With the integration of communications and consulting units there may be a greater degree of cross-fertilization Mister Miller said in a statement."
+
+4. The true transcription from the 5-best hypotheses is: "As he talks his wife and two teenage daughters hurry in from the rain and kiss him on the cheek."
+
+5. The true transcription from the 5-best hypotheses is: "The mother reports that all the shops were closed and she could not find any bread."
+
+6. The true transcription from the 5-best hypotheses is: "He chats with her briefly then resumes his political analysis."
+
+7. The true transcription from the 5-best hypotheses is: "Quote we have a dirty war exactly the same as in Argentina end quote he says."
+
+8. The true transcription from the 5-best hypotheses is: "Quote it is not acceptable but it is understandable."
+
+9. The true transcription from the 5-best hypotheses is: "And what should the government do about the murders."
+
+10. The true transcription from the 5-best hypotheses is: "Nothing says the businessman."
+
+11. The true transcription from the 5-best hypotheses is: "Quote an eye for an eye end quote."
+
+12. The true transcription from the 5-best hypotheses is: "The authors do not simply oppose federal programs."
+
+13. The true transcription from the 5-best hypotheses is: "They realize that no reform agenda can succeed if it seems to be quote motivated by stinginess end quote or hostility to the poor."
+
+14. The true transcription from the 5-best hypotheses is: "Conservatives they say must accept the need for a national anti-poverty policy but base it on better quote mechanisms end quote than liberals have offered."
+
+15. The true transcription from the 5-best hypotheses is: "Embodying as it does both this constructive attitude and obvious mastery quote out of the poverty trap end quote shows again that conservative social policy analysis has come of age."
+
+16. The true transcription from the 5-best hypotheses is: "With that in mind here is a glossary of terms used to describe investment risks and risk-related concepts."
+
+17. The true transcription from the 5-best hypotheses is: "It does not pretend to be complete and it will not protect anyone from losing a bundle."
+
+18. The true transcription from the 5-best hypotheses is: "Some risks for instance that the Dow Jones Industrial Average will drop five hundred points in a day do not lend themselves to fancy language."
+
+19. The true transcription from the 5-best hypotheses is: "But knowing what you are up against can be at least half the battle."
+
+20. The true transcription from the 5-best hypotheses is: "And if you do lose anyway some of this language might help you impress your friends when you try to explain why."
+Here are the complete 20 results:
+
+1. The true transcription from the 5-best hypotheses is: "friday's injunction blocks la debenture trust corporation chase manhattan bank and the electoral reform society from releasing details of the vote other than the results to nigeria."
+
+2. The true transcription from the 5-best hypotheses is: "the trust represented creditors in negotiations with nigeria over terms for repaying the notes which were issued to cover uninsured trade debts dating back to the one thousand, nine hundred and seventys."
+
+3. The true transcription from the 5-best hypotheses is: "chase is nigeria's registrar and the society is an independent organization hired to count votes."
+
+4. The true transcription from the 5-best hypotheses is: "as a boy in boston working after school to finance my obsession with jazz i had bought each red label commodore as it came out."
+
+5. The true transcription from the 5-best hypotheses is: "they were a dollar fifty each a lot of money for a recording then but they sure were special."
+
+6. The true transcription from the 5-best hypotheses is: "unlike pop sides those lifespans were like those of mosquitoes the jazz on commodore was forever."
+
+7. The true transcription from the 5-best hypotheses is: "superior industries international fell three and a quarter to fifteen and a half."
+
+8. The true transcription from the 5-best hypotheses is: "the company said it ended talks on a possible business combination."
+
+9. The true transcription from the 5-best hypotheses is: "it did not elaborate."
+
+10. The true transcription from the 5-best hypotheses is: "coniston declined to discuss its plans if its defeat is confirmed but indicated that it does not plan to simply walk away."
+
+11. The true transcription from the 5-best hypotheses is: "that is a big no comment."
+
+12. The true transcription from the 5-best hypotheses is: "we honestly do not know what our alternatives are said paul e turney one of coniston's three principal partners."
+
+13. The true transcription from the 5-best hypotheses is: "we do not have any fixed course of action right now."
+
+14. The true transcription from the 5-best hypotheses is: "we have a big commitment to the company."
+
+15. The true transcription from the 5-best hypotheses is: "we can not just disappear even if we wanted to."
+
+16. The true transcription from the 5-best hypotheses is: "in a minute the deal is closed."
+
+17. The true transcription from the 5-best hypotheses is: "mister barrett says he paid $one hundred and seventy-five thousand for the rolls only six months ago."
+
+18. The true transcription from the 5-best hypotheses is: "he expects the japanese agent to sell it for $two hundred and seventy-five thousand."
+
+19. The true transcription from the 5-best hypotheses is: "un peace officers said a ceasefire that began saturday in the iran iraq war appears to be holding despite charges of violations by both sides."
+
+20. The true transcription from the 5-best hypotheses is: "iraq said one of its soldiers was killed by a sniper and iran said iraq troops continued firing after their deadline."
+Here are the completed transcriptions for all 20 examples:
+
+1. The true transcription from the 5-best hypotheses is: "both countries are speeding the rebuilding of war damaged oil facilities."
+
+2. The true transcription from the 5-best hypotheses is: "quote obviously we were disappointed we did not get a larger award."
+
+3. The true transcription from the 5-best hypotheses is: "we believed our application was justified said daniel l berger one of the lawyers representing the plaintiffs."
+
+4. The true transcription from the 5-best hypotheses is: "he said he did not know whether the lawyers would appeal because so many were involved and there was not any agreement on how to proceed."
+
+5. The true transcription from the 5-best hypotheses is: "peter whitman president of dewey square investors in boston agreed that interest rates will rise further."
+
+6. The true transcription from the 5-best hypotheses is: "the near term trend is up he said."
+
+7. The true transcription from the 5-best hypotheses is: "we are near term quite defensive but longer term more optimistic."
+
+8. The true transcription from the 5-best hypotheses is: "the papers comprise the public record of the pennzoil versus."
+
+9. The true transcription from the 5-best hypotheses is: "texaco litigation in houston plus its appeal and related litigation in delaware and oklahoma."
+
+10. The true transcription from the 5-best hypotheses is: "also included are portions of texaco is bankruptcy case that relate to the original lawsuit and verdict mister shattuck says."
+Here are the complete 20 results:
+
+1. The true transcription from the 5-best hypotheses is: "Saatchi officials said the management restructuring might accelerate its efforts to persuade clients to use the firm as a one-stop shop for business services."
+
+2. The true transcription from the 5-best hypotheses is: "Quote it makes sense to put the divisions together at the top strategic level unquote a Saatchi official said."
+
+3. The true transcription from the 5-best hypotheses is: "With the integration of communications and consulting units, there may be a greater degree of cross-fertilization, Mister Miller said in a statement."
+
+4. The true transcription from the 5-best hypotheses is: "As he talks, his wife and two teenage daughters hurry in from the rain and kiss him on the cheek."
+
+5. The true transcription from the 5-best hypotheses is: "The mother reports that all the shops were closed and she could not find any bread."
+
+6. The true transcription from the 5-best hypotheses is: "He chats with her briefly then resumes his political analysis."
+
+7. The true transcription from the 5-best hypotheses is: "Quote we have a dirty war exactly the same as in Argentina end quote he says."
+
+8. The true transcription from the 5-best hypotheses is: "Quote it is not acceptable but it is understandable."
+
+9. The true transcription from the 5-best hypotheses is: "And what should the government do about the murders?"
+
+10. The true transcription from the 5-best hypotheses is: "Nothing, says the businessman."
+
+11. The true transcription from the 5-best hypotheses is: "Quote an eye for an eye end quote."
+
+12. The true transcription from the 5-best hypotheses is: "The authors do not simply oppose federal programs."
+
+13. The true transcription from the 5-best hypotheses is: "They realize that no reform agenda can succeed if it seems to be quote motivated by stinginess end quote or hostility to the poor."
+
+14. The true transcription from the 5-best hypotheses is: "Conservatives, they say, must accept the need for a national anti-poverty policy but base it on better quote mechanisms end quote than liberals have offered."
+
+15. The true transcription from the 5-best hypotheses is: "Embodying as it does both this constructive attitude and obvious mastery, quote out of the poverty trap end quote shows again that conservative social policy analysis has come of age."
+
+16. The true transcription from the 5-best hypotheses is: "With that in mind, here is a glossary of terms used to describe investment risks and risk-related concepts."
+
+17. The true transcription from the 5-best hypotheses is: "It does not pretend to be complete and it will not protect anyone from losing a bundle."
+
+18. The true transcription from the 5-best hypotheses is: "Some risks, for instance that the Dow Jones Industrial Average will drop five hundred points in a day, do not lend themselves to fancy language."
+
+19. The true transcription from the 5-best hypotheses is: "But knowing what you are up against can be at least half the battle."
+
+20. The true transcription from the 5-best hypotheses is: "And if you do lose anyway, some of this language might help you impress your friends when you try to explain why."
+Here are the complete 20 results:
+
+1. The true transcription from the 5-best hypotheses is: "Friday's injunction blocks La Debenture Trust Corporation, Chase Manhattan Bank and the Electoral Reform Society from releasing details of the vote other than the results to Nigeria."
+
+2. The true transcription from the 5-best hypotheses is: "The trust represented creditors in negotiations with Nigeria over terms for repaying the notes, which were issued to cover uninsured trade debts dating back to the 1970s."
+
+3. The true transcription from the 5-best hypotheses is: "Chase is Nigeria's registrar and the society is an independent organization hired to count votes."
+
+4. The true transcription from the 5-best hypotheses is: "As a boy in Boston working after school to finance my obsession with jazz, I had bought each red label Commodore as it came out."
+
+5. The true transcription from the 5-best hypotheses is: "They were a dollar fifty each, a lot of money for a recording then, but they sure were special."
+
+6. The true transcription from the 5-best hypotheses is: "Unlike pop sides whose lifespans were like those of mosquitoes, the jazz on Commodore was forever."
+
+7. The true transcription from the 5-best hypotheses is: "Superior Industries International fell three and a quarter to fifteen and a half."
+
+8. The true transcription from the 5-best hypotheses is: "The company said it ended talks on a possible business combination."
+
+9. The true transcription from the 5-best hypotheses is: "It did not elaborate."
+
+10. The true transcription from the 5-best hypotheses is: "Coniston declined to discuss its plans if its defeat is confirmed but indicated that it does not plan to simply walk away."
+
+11. The true transcription from the 5-best hypotheses is: "That is a big no comment."
+
+12. The true transcription from the 5-best hypotheses is: "We honestly do not know what our alternatives are, said Paul E. Turney, one of Coniston's three principal partners."
+
+13. The true transcription from the 5-best hypotheses is: "We do not have any fixed course of action right now."
+
+14. The true transcription from the 5-best hypotheses is: "We have a big commitment to the company."
+
+15. The true transcription from the 5-best hypotheses is: "We can not just disappear even if we wanted to."
+
+16. The true transcription from the 5-best hypotheses is: "In a minute the deal is closed."
+
+17. The true transcription from the 5-best hypotheses is: "Mr. Barrett says he paid $175,000 for the Rolls only six months ago."
+
+18. The true transcription from the 5-best hypotheses is: "He expects the Japanese agent to sell it for $275,000."
+
+19. The true transcription from the 5-best hypotheses is: "UN peace officers said a ceasefire that began Saturday in the Iran-Iraq war appears to be holding despite charges of violations by both sides."
+
+20. The true transcription from the 5-best hypotheses is: "Iraq said one of its soldiers was killed by a sniper and Iran said Iraqi troops continued firing after their deadline."
+Here are the complete 20 results in order:
+
+1. The true transcription from the 5-best hypotheses is: "both countries are speeding the rebuilding of war damaged oil facilities."
+
+2. The true transcription from the 5-best hypotheses is: "quote obviously we were disappointed we did not get a larger award."
+
+3. The true transcription from the 5-best hypotheses is: "we believed our application was justified said daniel l berger one of the lawyers representing the plaintiffs."
+
+4. The true transcription from the 5-best hypotheses is: "he said he did not know whether the lawyers would appeal because so many were involved and there was not any agreement on how to proceed."
+
+5. The true transcription from the 5-best hypotheses is: "peter whitman president of dewey square investors in boston agreed that interest rates will rise further."
+
+6. The true transcription from the 5-best hypotheses is: "the near term trend is up he said."
+
+7. The true transcription from the 5-best hypotheses is: "we are near term quite defensive but longer term more optimistic."
+
+8. The true transcription from the 5-best hypotheses is: "the papers comprise the public record of the pennzoil versus."
+
+9. The true transcription from the 5-best hypotheses is: "texaco litigation in houston plus its appeal and related litigation in delaware and oklahoma."
+
+10. The true transcription from the 5-best hypotheses is: "also included are portions of texaco is bankruptcy case that relate to the original lawsuit and verdict mister shattuck says."
+Here are the complete 20 results in order:
+
+1. The true transcription from the 5-best hypotheses is: "Saatchi officials said the management restructuring might accelerate its efforts to persuade clients to use the firm as a one-stop shop for business services."
+
+2. The true transcription from the 5-best hypotheses is: "Quote it makes sense to put the divisions together at the top strategic level unquote a Saatchi official said."
+
+3. The true transcription from the 5-best hypotheses is: "With the integration of communications and consulting units, there may be a greater degree of cross-fertilization, Mister Miller said in a statement."
+
+4. The true transcription from the 5-best hypotheses is: "As he talks, his wife and two teenage daughters hurry in from the rain and kiss him on the cheek."
+
+5. The true transcription from the 5-best hypotheses is: "The mother reports that all the shops were closed and she could not find any bread."
+
+6. The true transcription from the 5-best hypotheses is: "He chats with her briefly then resumes his political analysis."
+
+7. The true transcription from the 5-best hypotheses is: "Quote we have a dirty war exactly the same as in Argentina end quote he says."
+
+8. The true transcription from the 5-best hypotheses is: "Quote it is not acceptable but it is understandable."
+
+9. The true transcription from the 5-best hypotheses is: "And what should the government do about the murders?"
+
+10. The true transcription from the 5-best hypotheses is: "Nothing, says the businessman."
+
+11. The true transcription from the 5-best hypotheses is: "Quote an eye for an eye end quote."
+
+12. The true transcription from the 5-best hypotheses is: "The authors do not simply oppose federal programs."
+
+13. The true transcription from the 5-best hypotheses is: "They realize that no reform agenda can succeed if it seems to be quote motivated by stinginess end quote or hostility to the poor."
+
+14. The true transcription from the 5-best hypotheses is: "Conservatives, they say, must accept the need for a national anti-poverty policy but base it on better quote mechanisms end quote than liberals have offered."
+
+15. The true transcription from the 5-best hypotheses is: "Embodying as it does both this constructive attitude and obvious mastery, quote Out of the Poverty Trap end quote shows again that conservative social policy analysis has come of age."
+
+16. The true transcription from the 5-best hypotheses is: "With that in mind, here is a glossary of terms used to describe investment risks and risk-related concepts."
+
+17. The true transcription from the 5-best hypotheses is: "It does not pretend to be complete and it will not protect anyone from losing a bundle."
+
+18. The true transcription from the 5-best hypotheses is: "Some risks, for instance that the Dow Jones Industrial Average will drop five hundred points in a day, do not lend themselves to fancy language."
+
+19. The true transcription from the 5-best hypotheses is: "But knowing what you are up against can be at least half the battle."
+
+20. The true transcription from the 5-best hypotheses is: "And if you do lose anyway, some of this language might help you impress your friends when you try to explain why."
+Here are the complete 20 results in order:
+
+1. The true transcription from the 5-best hypotheses is: "Friday's injunction blocks La Debenture Trust Corporation, Chase Manhattan Bank and the Electoral Reform Society from releasing details of the vote other than the results to Nigeria."
+
+2. The true transcription from the 5-best hypotheses is: "The trust represented creditors in negotiations with Nigeria over terms for repaying the notes, which were issued to cover uninsured trade debts dating back to the 1970s."
+
+3. The true transcription from the 5-best hypotheses is: "Chase is Nigeria's registrar and the society is an independent organization hired to count votes."
+
+4. The true transcription from the 5-best hypotheses is: "As a boy in Boston working after school to finance my obsession with jazz, I had bought each red label Commodore as it came out."
+
+5. The true transcription from the 5-best hypotheses is: "They were a dollar fifty each, a lot of money for a recording then, but they sure were special."
+
+6. The true transcription from the 5-best hypotheses is: "Unlike pop sides whose lifespans were like those of mosquitoes, the jazz on Commodore was forever."
+
+7. The true transcription from the 5-best hypotheses is: "Superior Industries International fell three and a quarter to fifteen and a half."
+
+8. The true transcription from the 5-best hypotheses is: "The company said it ended talks on a possible business combination."
+
+9. The true transcription from the 5-best hypotheses is: "It did not elaborate."
+
+10. The true transcription from the 5-best hypotheses is: "Coniston declined to discuss its plans if its defeat is confirmed but indicated that it does not plan to simply walk away."
+
+11. The true transcription from the 5-best hypotheses is: "That is a big no comment."
+
+12. The true transcription from the 5-best hypotheses is: "We honestly do not know what our alternatives are, said Paul E. Turney, one of Coniston's three principal partners."
+
+13. The true transcription from the 5-best hypotheses is: "We do not have any fixed course of action right now."
+
+14. The true transcription from the 5-best hypotheses is: "We have a big commitment to the company."
+
+15. The true transcription from the 5-best hypotheses is: "We can not just disappear even if we wanted to."
+
+16. The true transcription from the 5-best hypotheses is: "In a minute the deal is closed."
+
+17. The true transcription from the 5-best hypotheses is: "Mr. Barrett says he paid $175,000 for the Rolls only six months ago."
+
+18. The true transcription from the 5-best hypotheses is: "He expects the Japanese agent to sell it for $275,000."
+
+19. The true transcription from the 5-best hypotheses is: "UN peace officers said a ceasefire that began Saturday in the Iran-Iraq war appears to be holding despite charges of violations by both sides."
+
+20. The true transcription from the 5-best hypotheses is: "Iraq said one of its soldiers was killed by a sniper and Iran said Iraqi troops continued firing after their deadline."
+Here are the complete 20 results in order:
+
+1. The true transcription from the 5-best hypotheses is: "both countries are speeding the rebuilding of war damaged oil facilities."
+
+2. The true transcription from the 5-best hypotheses is: "quote obviously we were disappointed we did not get a larger award."
+
+3. The true transcription from the 5-best hypotheses is: "we believed our application was justified said daniel l berger one of the lawyers representing the plaintiffs."
+
+4. The true transcription from the 5-best hypotheses is: "he said he did not know whether the lawyers would appeal because so many were involved and there was not any agreement on how to proceed."
+
+5. The true transcription from the 5-best hypotheses is: "peter whitman president of dewey square investors in boston agreed that interest rates will rise further."
+
+6. The true transcription from the 5-best hypotheses is: "the near term trend is up he said."
+
+7. The true transcription from the 5-best hypotheses is: "we are near term quite defensive but longer term more optimistic."
+
+8. The true transcription from the 5-best hypotheses is: "the papers comprise the public record of the pennzoil versus."
+
+9. The true transcription from the 5-best hypotheses is: "texaco litigation in houston plus its appeal and related litigation in delaware and oklahoma."
+
+10. The true transcription from the 5-best hypotheses is: "also included are portions of texaco is bankruptcy case that relate to the original lawsuit and verdict mister shattuck says."
+Here are the complete 20 results in order:
+
+1. The true transcription from the 5-best hypotheses is: "Saatchi officials said the management restructuring might accelerate its efforts to persuade clients to use the firm as a one-stop shop for business services."
+
+2. The true transcription from the 5-best hypotheses is: "Quote it makes sense to put the divisions together at the top strategic level unquote a Saatchi official said."
+
+3. The true transcription from the 5-best hypotheses is: "With the integration of communications and consulting units, there may be a greater degree of cross-fertilization, Mister Miller said in a statement."
+
+4. The true transcription from the 5-best hypotheses is: "As he talks, his wife and two teenage daughters hurry in from the rain and kiss him on the cheek."
+
+5. The true transcription from the 5-best hypotheses is: "The mother reports that all the shops were closed and she could not find any bread."
+
+6. The true transcription from the 5-best hypotheses is: "He chats with her briefly then resumes his political analysis."
+
+7. The true transcription from the 5-best hypotheses is: "Quote we have a dirty war exactly the same as in Argentina end quote he says."
+
+8. The true transcription from the 5-best hypotheses is: "It is not acceptable but it is understandable."
+
+9. The true transcription from the 5-best hypotheses is: "And what should the government do about the murders?"
+
+10. The true transcription from the 5-best hypotheses is: "Nothing says the businessman."
+
+11. The true transcription from the 5-best hypotheses is: "Quote an eye for an eye end quote."
+
+12. The true transcription from the 5-best hypotheses is: "The authors do not simply oppose federal programs."
+
+13. The true transcription from the 5-best hypotheses is: "They realize that no reform agenda can succeed if it seems to be quote motivated by stinginess end quote or hostility to the poor."
+
+14. The true transcription from the 5-best hypotheses is: "Conservatives they say must accept the need for a national anti-poverty policy but base it on better quote mechanisms end quote than liberals have offered."
+
+15. The true transcription from the 5-best hypotheses is: "Embodying as it does both this constructive attitude and obvious mastery quote out of the poverty trap end quote shows again that conservative social policy analysis has come of age."
+
+16. The true transcription from the 5-best hypotheses is: "With that in mind here is a glossary of terms used to describe investment risks and risk-related concepts."
+
+17. The true transcription from the 5-best hypotheses is: "It does not pretend to be complete and it will not protect anyone from losing a bundle."
+
+18. The true transcription from the 5-best hypotheses is: "Some risks for instance that the Dow Jones Industrial Average will drop five hundred points in a day do not lend themselves to fancy language."
+
+19. The true transcription from the 5-best hypotheses is: "But knowing what you are up against can be at least half the battle."
+
+20. The true transcription from the 5-best hypotheses is: "And if you do lose anyway some of this language might help you impress your friends when you try to explain why."
+Here are the true transcriptions for all 20 sets of hypotheses:
+
+1. The true transcription from the 5-best hypotheses is: "Friday's injunction blocks LDC Debenture Trust Corporation, Chase Manhattan Bank and the Electoral Reform Society from releasing details of the vote other than the results to Nigeria."
+
+2. The true transcription from the 5-best hypotheses is: "The trust represented creditors in negotiations with Nigeria over terms for repaying the notes, which were issued to cover uninsured trade debts dating back to the 1970s."
+
+3. The true transcription from the 5-best hypotheses is: "Chase is Nigeria's registrar and the society is an independent organization hired to count votes."
+
+4. The true transcription from the 5-best hypotheses is: "As a boy in Boston working after school to finance my obsession with jazz, I had bought each red label Commodore as it came out."
+
+5. The true transcription from the 5-best hypotheses is: "They were a dollar fifty each, a lot of money for a recording then, but they sure were special."
+
+6. The true transcription from the 5-best hypotheses is: "Unlike pop sides whose lifespans were like those of mosquitoes, the jazz on Commodore was forever."
+
+7. The true transcription from the 5-best hypotheses is: "Superior Industries International fell 3 1/4 to 15 1/2."
+
+8. The true transcription from the 5-best hypotheses is: "The company said it ended talks on a possible business combination."
+
+9. The true transcription from the 5-best hypotheses is: "It did not elaborate."
+
+10. The true transcription from the 5-best hypotheses is: "Coniston declined to discuss its plans if its defeat is confirmed but indicated that it does not plan to simply walk away."
+
+11. The true transcription from the 5-best hypotheses is: "That is a big no comment."
+
+12. The true transcription from the 5-best hypotheses is: "We honestly do not know what our alternatives are, said Paul E. Turney, one of Coniston's three principal partners."
+
+13. The true transcription from the 5-best hypotheses is: "We do not have any fixed course of action right now."
+
+14. The true transcription from the 5-best hypotheses is: "We have a big commitment to the company."
+
+15. The true transcription from the 5-best hypotheses is: "We can not just disappear even if we wanted to."
+
+16. The true transcription from the 5-best hypotheses is: "In a minute the deal is closed."
+
+17. The true transcription from the 5-best hypotheses is: "Mr. Barrett says he paid $175,000 for the Rolls only six months ago."
+
+18. The true transcription from the 5-best hypotheses is: "He expects the Japanese agent to sell it for $275,000."
+
+19. The true transcription from the 5-best hypotheses is: "UN peace officers said a cease-fire that began Saturday in the Iran-Iraq war appears to be holding despite charges of violations by both sides."
+
+20. The true transcription from the 5-best hypotheses is: "Iraq said one of its soldiers was killed by a sniper and Iran said Iraqi troops continued firing after their deadline."
+Here are the complete 20 results in order:
+
+1. The true transcription from the 5-best hypotheses is: "both countries are speeding the rebuilding of war damaged oil facilities."
+
+2. The true transcription from the 5-best hypotheses is: "quote obviously we were disappointed we did not get a larger award."
+
+3. The true transcription from the 5-best hypotheses is: "we believed our application was justified said daniel l berger one of the lawyers representing the plaintiffs."
+
+4. The true transcription from the 5-best hypotheses is: "he said he did not know whether the lawyers would appeal because so many were involved and there was not any agreement on how to proceed."
+
+5. The true transcription from the 5-best hypotheses is: "peter whitman president of dewey square investors in boston agreed that interest rates will rise further."
+
+6. The true transcription from the 5-best hypotheses is: "the near term trend is up he said."
+
+7. The true transcription from the 5-best hypotheses is: "we are near term quite defensive but longer term more optimistic."
+
+8. The true transcription from the 5-best hypotheses is: "the papers comprise the public record of the pennzoil versus."
+
+9. The true transcription from the 5-best hypotheses is: "texaco litigation in houston plus its appeal and related litigation in delaware and oklahoma."
+
+10. The true transcription from the 5-best hypotheses is: "also included are portions of texaco is bankruptcy case that relate to the original lawsuit and verdict mister shattuck says."
