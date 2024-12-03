@@ -48,9 +48,17 @@ This project investigates the use of **Large Language Models (LLMs)** for enhanc
 | TinyLlama        | None              | 285.89  |
 | TinyLlama        | LoRA              | 87.57   |
 | TinyLlama        | EvoPrompt         | 273.51  |
+| TinyLlama        | LoRA+EvoPrompt    | 82.65   |
 | TinyLlama        | Full Tuning       | **7.47** |
+| GPT-3.5          | None              | 44.90   |
 | GPT-3.5          | EvoPrompt         | 33.96   |
-| Qwen-2.5B        | Full Tuning       | **6.25** |
+| Qwen-2.5-7B      | None              | 1503.20 |
+| Qwen-2.5-7B      | LoRA              | 1371.20 |
+| Qwen-2.5-7B      | EvoPrompt         | 1411.30 |
+| Qwen-2.5-7B      | Full Tuning       | **6.25** |
+| Llama3.2-3B      | None              | 1213.00 |
+| Llama3.2-3B      | Full Tuning       | 6.90    |
+
 
 ---
 
