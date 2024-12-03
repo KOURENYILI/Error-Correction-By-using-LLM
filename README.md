@@ -57,7 +57,7 @@ This project investigates the use of **Large Language Models (LLMs)** for enhanc
 | Qwen-2.5-7B      | EvoPrompt         | 1411.30 |
 | Qwen-2.5-7B      | Full Tuning       | **6.25** |
 | Llama3.2-3B      | None              | 1213.00 |
-| Llama3.2-3B      | Full Tuning       | 6.90    |
+| Llama3.2-3B      | Full Tuning       | **6.90** |
 
 
 ---
